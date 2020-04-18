@@ -7,18 +7,19 @@ Compilation and details to all the livestreams Trigger hosts.<br>
 
 ### 1. [Live Drawing 1 - Yoshinari Yoh drawing Akko from Little Witch Academia](https://www.youtube.com/watch?v=2-0aucD8By0)
 Date: Sep 28, 2018<br>
-Artist: Yoh Yoshinari<br> 
+Artist: Yoh Yoshinari (director/animator)<br> 
 Description: Akko from Little Witch Academia<br>
-Guests:N/A<br>
+Guests: Hiromi (producer)<br>
 Tools: N/A<br>
+Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-hi-res-of-21792554) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-psd-file-21817844) (patrons only)<br>
 Notes:
 
 
 ### 2. [Live Drawing 2 - Akihiro Sato drawing Ryuuko from KILL la KILL](https://www.youtube.com/watch?v=PrQuxS_w2vE)
-Date: Dec 17, 2018<br>
-Artist: Akihiro Sato<br>
+Date: Dec 1, 2018<br>
+Artist: Akihiro Satoi (in-between animator)<br>
 Description: Ryuko from KILL la KILL<br>
-Guests: N/A<br>
+Guests: Hiromi (producer)<br>
 Tools: Mobile Studio Pro 16 Tablet/Medibang Paint<br>
 Notes: 
 
@@ -38,8 +39,8 @@ Guests:Hiromi<br>
 Tools: Wacom Cintiq 16 Tablet/Paint Tool SAI Ver. 1<br>
 Notes: 
 * Mago is a manga artist
-* Hiromi: I can't comment on the ending plot of DarliFra, but I was satisfied with the ending animation sequence (which he produced) 
-* Many Japanese studios/production comittees don't put much thought/look into the dubbing process from overseas distributors; Trigger would be interested in directing the dub if the opportunity arises (00:35:00)    
+* Hiromi: I can't comment on the ending plot of DarliFra, but I was satisfied with the DitF ending animation sequence (which he produced) 
+* Many Japanese studios/production committees don't put much thought/look into the dubbing process from overseas distributors; Trigger would be interested in directing the dub if the opportunity arises (00:35:00)    
 
 ### 5. [Live Drawing 5 - Kazuki Chiba drawing Sucy from Little Witch Academia](https://www.twitch.tv/videos/431029877) | [Part 2](https://www.twitch.tv/videos/431043693)
 Date: May 28, 2019<br>
@@ -56,7 +57,7 @@ Description: Mecha Shikishiki for Anime Expo<br>
 Guests: Hiromi<br>
 Tools: Shikishi board/Pencil,Pen<br>
 Notes:
-* Amemiya: ['Drawing on the Right Side of the Brain'](https://www.amazon.com/dp/1585429201) by Edwards really helped with drawing anatomy for me (1:21:01)
+* Amemiya: I never intentionally practiced human anatomy, but the book ['Drawing on the Right Side of the Brain' by Edwards](https://www.amazon.com/dp/1585429201) helped with learning anatomy for animation (1:21:01)
 
 ### 7. [Live Drawing 7 - Shigeto Koyama drawing Galo from Promare](https://www.twitch.tv/videos/480768644) 
 Date: September 13, 2019<br>
