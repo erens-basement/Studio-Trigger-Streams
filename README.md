@@ -111,3 +111,14 @@ Guests: Shigeto Koyama, Hiromi Wakabayashi<br>
 Tools: TVPaint Animation (program)<br>
 Finished artwork: [Patreon Link](https://www.patreon.com/posts/reward-from-2019-33410098)<br>
 Notes:
+
+
+
+## Tattun Streams
+Streams where he's flipping through in-betweens and answering questions
+
+### [Inbetweens April 1, 2020](https://www.twitch.tv/videos/580438363)
+Date: April 1, 2020
+Notes: 
+* Q: Do the staff ever ask you to translate for leisure? All the time, for movies they would take him to Star Wars and Solo to as him.
+* For an internship with Trigger, you need to get a Japanese Visa yourself, be able to speak, write in Japanese, baseline requirements. (01:51:00)
