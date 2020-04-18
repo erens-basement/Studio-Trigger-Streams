@@ -1,6 +1,6 @@
 # Studio Trigger Livestream Guide
-Compilation and details to all the livestreams Trigger hosts.<br>
-I found it difficult to look back for old streams so I decided to write this guide.<br>
+Compilation and details to all the livestreams Studio Trigger has hosted for Patreon patrons and the public.<br>
+I found it difficult to look back for old streams so I decided to write this guide. All the streams are publicly available on their Twitch and Youtube channels.<br>
 Note: All links to the final artwork are locked behind Patreon tiers and only accessible by donors.<br>
 Please support Studio Trigger on Patreon: [Invite Link](https://www.patreon.com/join/TRIGGER/)<br>
 
@@ -16,7 +16,7 @@ Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-hi-res-of-217
 Notes:
 * [Timelapse video (hand camera/10 minute version)](https://www.youtube.com/watch?v=JbHqadf6GpA)
 * [Timelapse video (no camera/10 minute version)](https://www.youtube.com/watch?v=HBRuS3LvXmc)
-* []
+* [Timelapse video (no camera/full minute version](https://www.youtube.com/watch?v=0Gbb6gRnayQ)
 
 
 ### 2. [Live Drawing 2 - Akihiro Sato drawing Ryuuko from KILL la KILL](https://www.youtube.com/watch?v=PrQuxS_w2vE)
@@ -27,6 +27,11 @@ Guests: Hiromi (producer)<br>
 Tools: Mobile Studio Pro 16 Tablet/Medibang Paint<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-2nd-live-23111345) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-2nd-live-23111530) (patron access)<br>
 Notes: 
+* [Timelapse video (no camera/long version)](https://www.youtube.com/watch?v=wTbcgeY20TM)
+* [Timelapse video (hand camera/long version)](https://www.youtube.com/watch?v=PrQuxS_w2vE)
+* [Timelapse video (no camera/10 minute version)](https://www.youtube.com/watch?v=OegWYBbcxt4)
+* [Timelapse video (hand camera/long version)](https://www.youtube.com/watch?v=9gyULko-9jE)
+
 
 ### 3. [Live Drawing 3 - Tetsuya Sakurai drawing Satsuki from KILL la KILL](https://www.twitch.tv/videos/383698751?t=00h27m02s)
 Date: Feb 20, 2019<br>
@@ -64,6 +69,7 @@ Artist:Akira Amemiya (director/animator)<br>
 Description: Mecha Shikishiki for Anime Expo<br>
 Guests: Hiromi<br>
 Tools: Shikishi board/Pencil, Pen<br>
+Finished artwork: N/A<br>
 Notes:
 * Amemiya: I never intentionally practiced human anatomy, but the book ['Drawing on the Right Side of the Brain' by Edwards](https://www.amazon.com/dp/1585429201) helped with learning anatomy for animation (1:21:01)
 
@@ -75,7 +81,9 @@ Guests: Hiromi (producer)<br>
 Tools: Apple Macbook Pro 2015, Wacom Cintiq Pro 16" Tablet, Clip Studio Paint, Adobe Photoshop<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-trigger-30102938) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-trigger-30103231) (patron access)<br>
 Notes:
-* [Timelapse drawing (full version)](https://www.youtube.com/watch?v=l5ZEGT3H60o)
+* [Timelapse video (10 minute version)](https://www.youtube.com/watch?v=9spwbklxRvg)
+* [Timelapse video (full version)](https://www.youtube.com/watch?v=l5ZEGT3H60o)
+
 
 
 ### 8. [Live Drawing 8 - drawing Lio from PROMARE, Halloween-themed](https://www.twitch.tv/videos/499247339?t=0h2m18s) 
@@ -90,7 +98,10 @@ Notes:
 * Halloween isn't big/relatively new in Japan, except for nightlife in Shibuya recently the past 5 years (00:25:49)
 * [10 minute timelapse video](https://www.youtube.com/watch?v=l5ZEGT3H60o)
 * Shunpei is using the dry ink brush (profile) which has a pencil stroke/texture to it, very popular among other staff (00:28:35)
-
+* Sushio was ego-searching/looking up his name on Twitter for Promare(?) (00:46:30)
+* When they were transitioning to digital, Yoshinari said Imaishi was better with traditional paper/pencil (00:51:30)
+* [Timelapse video (10 minute version)](https://www.youtube.com/watch?v=l5ZEGT3H60o)
+* [Timelapse video (full version)](https://www.youtube.com/watch?v=-QL87ep2Jas)
 
 ### 9. [Christmas Live Drawing Special - Imaishi animating a sequence with Galo and Lio from Promare](https://www.twitch.tv/videos/526051066)
 Date: December 25, 2019<br>
