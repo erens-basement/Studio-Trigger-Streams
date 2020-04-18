@@ -122,3 +122,4 @@ Date: April 1, 2020
 Notes: 
 * Q: Do the staff ever ask you to translate for leisure? All the time, for movies they would take him to Star Wars and Solo to as him.
 * For an internship with Trigger, you need to get a Japanese Visa yourself, be able to speak, write in Japanese, baseline requirements. (01:51:00)
+* T: Hot take: Gaming journalists are all fake news, it's exactly the same with anitubers. Nevermind, I take it back. I would like to apologize. If you're really curious about a question, ask the folks who make it, not "experts" on the subject. (02:12:42)
