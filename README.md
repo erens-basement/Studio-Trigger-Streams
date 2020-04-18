@@ -86,7 +86,7 @@ Notes:
 
 
 
-### 8. [Live Drawing 8 - drawing Lio from PROMARE, Halloween-themed](https://www.twitch.tv/videos/499247339?t=0h2m18s) 
+### 8. [Live Drawing 8 - Shunpei Gunyasu drawing Lio from PROMARE, Halloween-themed](https://www.twitch.tv/videos/499247339?t=0h2m18s) 
 Date: Oct 25, 2019<br>
 Artist: Shunpei Gunyasu (key animator)<br>
 Description: Lio from PROMARE, Halloween-themed<br>
