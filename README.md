@@ -103,11 +103,11 @@ Notes:
 * [Timelapse video (10 minute version)](https://www.youtube.com/watch?v=l5ZEGT3H60o)
 * [Timelapse video (full version)](https://www.youtube.com/watch?v=-QL87ep2Jas)
 
-### 9. [Christmas Live Drawing Special - Imaishi animating a sequence with Galo and Lio from Promare](https://www.twitch.tv/videos/526051066)
+### 9. [Christmas Live Drawing Special - Imaishi animating a sequence with PROMARE characters](https://www.twitch.tv/videos/526051066?t=0h6m57s)
 Date: December 25, 2019<br>
-Artist: Imaishi<br>
-Description: Animation sequence with Galo, Lio<br>
+Artist: Hiroyuki Imaishi (director/animator)<br>
+Description: Animation sequence with Galo, Lio from PROMARE<br>
 Guests: Shigeto Koyama, Hiromi Wakabayashi<br>
-Tools:<br>
-Finished artwork: N/A<br>
+Tools: TVPaint Animation (program)<br>
+Finished artwork: [Patreon Link](https://www.patreon.com/posts/reward-from-2019-33410098)<br>
 Notes:
