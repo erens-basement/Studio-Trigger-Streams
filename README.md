@@ -4,6 +4,8 @@ I found it difficult to look back for old streams so I decided to write this gui
 Note: All links to the final artwork are locked behind Patreon tiers and only accessible by donors.<br>
 Please support Studio Trigger on Patreon: [Invite Link](https://www.patreon.com/join/TRIGGER/)<br>
 
+![Image](https://github.com/erens-basement/trigger-livestreams/trigger-xmas-kfc.png)
+
 ## Live Drawings
 
 ### 1. [Live Drawing 1 - Yoshinari Yoh drawing Akko from Little Witch Academia (hand camera/full version)](https://www.youtube.com/watch?v=2-0aucD8By0)
@@ -107,7 +109,7 @@ Date: December 25, 2019<br>
 Artist: Hiroyuki Imaishi (director/animator)<br>
 Description: Animation sequence with Galo, Lio from PROMARE<br>
 Guests: Shigeto Koyama, Hiromi Wakabayashi, Mami, Masahiko Otsuka (president) (00:58:00)<br>
-Tools: TVPaint Animation (program)<br>
+Tools: Wacom Cintiq 22" Tablet (non-pro), Windows 10, TVPaint Animation (program)<br>
 Finished artwork: [Patreon Link](https://www.patreon.com/posts/reward-from-2019-33410098)<br>
 Notes:
 * I: I learned anime on paper and pencil so I believe I am much faster/proficient on old fashioned method still. However, that is a very selfish answer. If i were to think about the entire process animating like compositing and coloring, digital medium makes the whole process seamless and less stressful (00:44:00)
