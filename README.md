@@ -4,7 +4,7 @@ I found it difficult to look back for old streams so I decided to write this gui
 Note: All links to the final artwork are locked behind Patreon tiers and only accessible by donors.<br>
 Please support Studio Trigger on Patreon: [Invite Link](https://www.patreon.com/join/TRIGGER/)<br>
 
-![Image](https://github.com/erens-basement/trigger-livestreams/blob/master/trigger-xmas-kfc.png)
+![KFC Christmas at Trigger](https://github.com/erens-basement/trigger-livestreams/blob/master/trigger-xmas-kfc.png)
 
 ## Live Drawings
 
@@ -108,7 +108,7 @@ Notes:
 Date: December 25, 2019<br>
 Artist: Hiroyuki Imaishi (director/animator)<br>
 Description: Animation sequence with Galo, Lio from PROMARE<br>
-Guests: Shigeto Koyama, Hiromi Wakabayashi, Mami, Masahiko Otsuka (president) (00:58:00)<br>
+Guests: Shigeto Koyama, Hiromi Wakabayashi, Mami, Otsuka (president) (00:58:00), Amemiya (1:12:50)<br>
 Tools: Wacom Cintiq 22" Tablet (non-pro), Windows 10, TVPaint Animation (program)<br>
 Finished artwork: [Patreon Link](https://www.patreon.com/posts/reward-from-2019-33410098)<br>
 Notes:
@@ -117,7 +117,7 @@ Notes:
 * The only educational assets I ever referenced were the animation works from Kogawa Tomonori. I self taught myself through other animators. (00:49:00)
 * I: I used to like the drumsticks when I was younger but I found somewhere down the line that the breasts and wings taste better. Now I like the breasts. (00:50:00)
 * Imaishi has an easier time drawing robots and mechs than human characters.
-
+* Koyama: Basic advice is to not use a white canvas for color. White canvas is the brightest setting you can use. Darker color like gray it's easier to pinpoint or notice where you spot a mistake. (01:18:00)
 
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
