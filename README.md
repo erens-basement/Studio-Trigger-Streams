@@ -96,7 +96,6 @@ Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-trigger-31155
 Notes:
 * Hiromi: For all Imaishi/Nakashima works, they don't like settling birthday/zodiac symbol. Most characters in their series don't have publicly disclosed birthdays or zodiac symbols. According to Nakashima, he doesn't want his character to be swayed by their birth dates/zodiac symbols and wants viewers to judge how they are portrayed in the story. (00:16:30)
 * Halloween isn't big/relatively new in Japan, except for nightlife in Shibuya recently the past 5 years (00:25:49)
-* [10 minute timelapse video](https://www.youtube.com/watch?v=l5ZEGT3H60o)
 * Shunpei is using the dry ink brush (profile) which has a pencil stroke/texture to it, very popular among other staff (00:28:35)
 * Sushio was ego-searching/looking up his name on Twitter for Promare(?) (00:46:30)
 * When they were transitioning to digital, Yoshinari said Imaishi was better with traditional paper/pencil (00:51:30)
@@ -107,12 +106,16 @@ Notes:
 Date: December 25, 2019<br>
 Artist: Hiroyuki Imaishi (director/animator)<br>
 Description: Animation sequence with Galo, Lio from PROMARE<br>
-Guests: Shigeto Koyama, Hiromi Wakabayashi<br>
+Guests: Shigeto Koyama, Hiromi Wakabayashi, Mami, Masahiko Otsuka (president) (00:58:00)<br>
 Tools: TVPaint Animation (program)<br>
 Finished artwork: [Patreon Link](https://www.patreon.com/posts/reward-from-2019-33410098)<br>
 Notes:
 * I: I learned anime on paper and pencil so I believe I am much faster/proficient on old fashioned method still. However, that is a very selfish answer. If i were to think about the entire process animating like compositing and coloring, digital medium makes the whole process seamless and less stressful (00:44:00)
 * Q: What made you good in drawing, talent or hard work? I: You can get to a certain level with hardwork. However, in order to really shine in the industry, you need the talent. Also it's complicated because the folks that are talented don't last in the industry long. That's a good question, but a very difficult question. I believe I remained in the industry due to hard work. The saying to keep practicing holds true. I'd like to think myself as a man who maintained and got up through hard work. (00:45:00)
+* The only educational assets I ever referenced were the animation works from Kogawa Tomonori. I self taught myself through other animators. (00:49:00)
+* I: I used to like the drumsticks when I was younger but I found somewhere down the line that the breasts and wings taste better. Now I like the breasts. (00:50:00)
+* Imaishi has an easier time drawing robots and mechs than human characters.
+
 
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
