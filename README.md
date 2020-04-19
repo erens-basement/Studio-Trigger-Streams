@@ -4,7 +4,7 @@ I found it difficult to look back for old streams so I decided to write this gui
 Note: All links to the final artwork are locked behind Patreon tiers and only accessible by donors.<br>
 Please support Studio Trigger on Patreon: [Invite Link](https://www.patreon.com/join/TRIGGER/)<br>
 
-![Image](https://github.com/erens-basement/trigger-livestreams/trigger-xmas-kfc.png)
+![Image](https://github.com/erens-basement/trigger-livestreams/blob/master/trigger-xmas-kfc.png)
 
 ## Live Drawings
 
