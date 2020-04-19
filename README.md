@@ -130,6 +130,10 @@ Notes:
 * Q: There should be a Trigger convention. A: We would have the staff hold up platform with Imaishi in his underwear like Xerxes from the 300 and throwing Trigger dollar bills (02:16:30)  
 * Q: Is Galo drawn with smaller hands with gloves off? A: They got to try on firefighting equipment (in NYC for location scouting, Promare), like gloves that are big and thick. Galo's hand is portrayed a lot smaller without his gloves on. (2:18:00)
 * Imaishi tries to pose himself/reinact scene to draw a more dynamic pose. Tattun took Imaishi to a shooting range recently and it was his first time shooting several pistols. Imaishi says it didn't change much but it gave him a whole new perspective on the weight, recoil. (2:24:30)
+* 4DX: Imaishi: To emphasize on the Lio reveal (his feminime look in contrast with his suit) in the scene where his mask cracks, they added a smell there.
+* They didn't expect PROMARE to have such a good reception and long screening time in Japan. 
+* Hiromi: Since a movie takes so long to produce, it's unresting you don't know how it will be perceived until it's released. Generally movies are screened for 4 weeks. If it doesn't do well in the first release, it's detrimental. A short TV series will be broadcasted for 3 months so there's good and bad for both projects. Hell is usually around delivery date. For TV series, the hell repeats every episode while a movie is one really rough hell. Pick your poison. (02:41:00)
+* Q: I love Imaishi's design, but he rarely uses his own designs and has character designers. Will he use his own character designs for an anime again? I: My designs are really strong for very manga, comic-like energy for the characters, but for dramatic scenes, they don't translate very well. When my design has to work with an actual script, it doesn't do the script justice. If there's a project where my designs suit the content, atmosphere of the series, he wouldn't mind doing the character designs. (3:53:00)
 
 
 
