@@ -118,6 +118,20 @@ Notes:
 * I: I used to like the drumsticks when I was younger but I found somewhere down the line that the breasts and wings taste better. Now I like the breasts. (00:50:00)
 * Imaishi has an easier time drawing robots and mechs than human characters.
 * Koyama: Basic advice is to not use a white canvas for color. White canvas is the brightest setting you can use. Darker color like gray it's easier to pinpoint or notice where you spot a mistake. (01:18:00)
+* It would be convenient to have a 3D animator because Trigger is a very 2D oriented studio, so it would definitely be a luxury. We can't rpovdie the 3d animator with enough work to warrant the expenditure of hiring. Having a colorist, etc in house is ideal, but the cost can't be justified. (1:21:00)
+* I: In the original storyboard for PROMARE, when Lio and his boys are escaping the prison. Theere is a scene where Lio confronts Vulcan and there was an aerial combat scene. I even had that scene cleaned up by Yoshinari but unfortunately we never used it. If we had it, there would be too many fight scenes. It was a balance issue, we omitted it for. (1:30:00)
+* We really don't know why PS&G is popular overseas because we never really did any promotion there. We do believe that visiting various anime conventions, PSG would be more overseas than Japan, but we do know there are a few hardcore fans in Japan (01:39:00) 
+* If we ever get to do s2 psg, we want to do the ghost explosion scenes overseas. we want to go to a place with liberal firearms laws like texas or russia. Find some old guy with actual explosives, like rpg's. Ask him to shoot our props and blow them up and place that in instead of explosion scenes. (1:42:00)
+* Q: Animators you're interested in, in house and overseas? I: In house, I'm very interested how Ikarashi and Kaneko will turn out. We have some newcomers like Nakamura, Dohee, and Kano who are good at single character illustrations. (1:52:00)
+* Q: Waka said you review everyone you hire. What do you look for in a new employee. Would you promote a PA or someone who's not an animator to ach-tsu(?) A: So we definitely do, we have few PAs that become achstu or episodic directors. So it's definitely possible. We defintiely do have to check an animator's skill and prepare a curriculum to teach or train that individual. (1:59:00) 
+* Imaishi wants to go to Russia. Find an event willing to fly them out because Trigger is interested. We want to try out some borsch(?). (2:00:00)
+* Artists don't share brush presets because once at a high level, it's hard to distinguish good art from each other. Artists then tweak brush presets to be unique, (02:08:00)
+* During the Gainax age, Imaishi owes most to Tsurumaki or Ono-san as inspiration. (02:10:00)
+* Q: There should be a Trigger convention. A: We would have the staff hold up platform with Imaishi in his underwear like Xerxes from the 300 and throwing Trigger dollar bills (02:16:30)  
+* Q: Is Galo drawn with smaller hands with gloves off? A: They got to try on firefighting equipment (in NYC for location scouting, Promare), like gloves that are big and thick. Galo's hand is portrayed a lot smaller without his gloves on. (2:18:00)
+* Imaishi tries to pose himself/reinact scene to draw a more dynamic pose. Tattun took Imaishi to a shooting range recently and it was his first time shooting several pistols. Imaishi says it didn't change much but it gave him a whole new perspective on the weight, recoil. (2:24:30)
+
+
 
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
