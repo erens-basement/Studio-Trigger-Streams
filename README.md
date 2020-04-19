@@ -111,8 +111,8 @@ Guests: Shigeto Koyama, Hiromi Wakabayashi<br>
 Tools: TVPaint Animation (program)<br>
 Finished artwork: [Patreon Link](https://www.patreon.com/posts/reward-from-2019-33410098)<br>
 Notes:
-
-
+* I: I learned anime on paper and pencil so I believe I am much faster/proficient on old fashioned method still. However, that is a very selfish answer. If i were to think about the entire process animating like compositing and coloring, digital medium makes the whole process seamless and less stressful (00:44:00)
+* Q: What made you good in drawing, talent or hard work? I: You can get to a certain level with hardwork. However, in order to really shine in the industry, you need the talent. Also it's complicated because the folks that are talented don't last in the industry long. That's a good question, but a very difficult question. I believe I remained in the industry due to hard work. The saying to keep practicing holds true. I'd like to think myself as a man who maintained and got up through hard work. (00:45:00)
 
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
@@ -123,3 +123,8 @@ Notes:
 * Q: Do the staff ever ask you to translate for leisure? All the time, for movies they would take him to Star Wars and Solo to as him.
 * For an internship with Trigger, you need to get a Japanese Visa yourself, be able to speak, write in Japanese, baseline requirements. (01:51:00)
 * T: Hot take: Gaming journalists are all fake news, it's exactly the same with anitubers. Nevermind, I take it back. I would like to apologize. If you're really curious about a question, ask the folks who make it, not "experts" on the subject. (02:12:42)
+* Q: Favorite BNA character? T: I really like Jackie, she's like the ugly raccoon bear. I don't like Nazuna or Michiru. Nazuna and Michiru's personality is icky, I don't like it. (02:23:15)
+* T: When I praise this figure [his bunnysuit Ryuuko figure], I really mean it. This figure is super good quality, like 200 bucks, but it's worth the 200 bucks. (02:29:00)
+* T: Most I've gotten in trouble for was disclosing the cost for an anime episode in the past. The exec folks were super mad. (02:38:34)
+* T: I'm the studio's PR. They call me Tatsun, I don't know why they call me that. My real name is Tatsuru. It started when a certain celebrity said Tattun's name was boring and she would call him Tatsun from that point. Then it stuck. (02:48:00)
+* T: I am treated as the clown and joke of the studio. Oh that dude's doing some random crap that isn't gonna go well, wasting everyone's time. (02:52:00)
