@@ -83,7 +83,7 @@ Part 2:
 * H: The more we use CGI in a show, the more cost effective it becomes. If it's only for 12 episodes, traditional animation is cheaper. For > 12 episodes or more seasons, CGI is cheaper. The more you use it the cheaper it becomes. 00:13:00)
 * He grew up with Yuusha series and Digimon. Hiromi grew up with Ghibli, Disney, Doraemon. 
 * Currently the live-streams are held in an empty room and it takes 3 hours to move the gear. Trigger is planning on moving and soon. Once they move, Moving out of Ogikubo, Integral Tower. Tattun gets his own streaming cubicle. (00:21:00)
-* [Best comedy series says Tattun and Hiromi.](https://www.amazon.co.jp/%E3%82%A2%E3%82%B4%E3%81%AA%E3%81%97%E3%82%B2%E3%83%B3%E3%81%A8%E3%82%AA%E3%83%AC%E7%89%A9%E8%AA%9E%EF%BC%881%EF%BC%89-%E3%83%A4%E3%83%B3%E3%83%9E%E3%82%ACKC%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-%E5%B9%B3%E6%9C%AC-%E3%82%A2%E3%82%AD%E3%83%A9/dp/4063367916) Oremonogatari. You should learn Japanese just for this. The OG Prison School. (00:26:00)
+* [Best comedy series says Tattun and Hiromi.](https://www.amazon.co.jp/%E3%82%A2%E3%82%B4%E3%81%AA%E3%81%97%E3%82%B2%E3%83%B3%E3%81%A8%E3%82%AA%E3%83%AC%E7%89%A9%E8%AA%9E%EF%BC%881%EF%BC%89-%E3%83%A4%E3%83%B3%E3%83%9E%E3%82%ACKC%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-%E5%B9%B3%E6%9C%AC-%E3%82%A2%E3%82%AD%E3%83%A9/dp/4063367916) Oremonogatari, アゴなしゲンとオレ物語. You should learn Japanese just for this. The OG Prison School. (00:26:00)
 * Shiba was still an intern at Trigger when they were doing LWA (TV), but he was involved in the game(?) for LWA.
 * H: Last year at the cons, a lot of overseas fans are very keen on Q&As, they know how to push buttons, all the questions he wanted to answer were asked within the first few minutes. Overseas fans have an interesting perspective and he enjoys the unique questions he's never thought about. 
 * What studio or what director would you like to work with? Chiba is currently learning under Director Amemiya, so he is amemiya's padawan. he's interested in working with him next.
@@ -92,15 +92,26 @@ Part 2:
 
 
 
-### 6. [Live Drawing 6 - Akira Amemiya drawing a Mecha Shikishi for AX](https://www.twitch.tv/videos/445297992?t=01h03m30s)
+### 6. [Live Drawing 6 - Akira Amemiya drawing a GRIDMAN Shikishi for AX](https://www.twitch.tv/videos/445297992?t=01h03m30s)
 Date: Jun 28, 2019<br>
 Artist:Akira Amemiya (director/animator)<br>
-Description: Mecha Shikishiki for Anime Expo<br>
+Description: GRIDMAN Mecha Shikishiki for Anime Expo<br>
 Guests: Hiromi<br>
-Tools: Shikishi board/Pencil, Pen<br>
+Tools: Shikishi board/Mechanical pencil, Magic pen<br>
 Finished artwork: N/A<br>
 Notes:
+* Amemiya: you gotta pray before you illustration. Visualize in your head and when you get a good image, then pick up the pen.
+* Amemiya: using a random mechanical pencil he found on the floor the other day to draw. You can't put your soul in it through digital devices/electronics. Praying is most important, doesn't matter what utensil you use.
+* Amemiya: I've never screwed up in my life before so I don't know failure. [Link](https://clips.twitch.tv/OriginalPlayfulBananaLitty)
+* Amemiya is known to be the fast animator in Trigger and did 40 cuts for GRIDMAN.
+* When he was in college, he was in the animation club with his senpai. They were all interested in producing anime and where his career started. Normal college.
 * Amemiya: I never intentionally practiced human anatomy, but the book ['Drawing on the Right Side of the Brain' by Edwards](https://www.amazon.com/dp/1585429201) helped with learning anatomy for animation (1:21:01)
+* Alexis in Gridman was designed by Koyama, chara de for Promare.
+* Hiromi really wants to do a Baywatch anime.
+* Anno and Eva impacted on his life, not just Gridman.
+
+
+
 
 ### 7. [Live Drawing 7 - Shigeto Koyama drawing Galo from PROMARE](https://www.twitch.tv/videos/480768644?t=0h2m48s) 
 Date: September 13, 2019<br>
@@ -217,11 +228,12 @@ Twitter: @erensbase
 In Progress:
 * 8th 
 * 4th (~35m)
-* Mar 21 tatt 1:08
+* Mar 21 tatt 2:00
+* amemiya 6
 
 Completed:
 * April 1 Tattun
 * March 31 Tattun
-* Xmas
-* 5th pt 2 40m
+* Xmas (9)
+* 5th live drawing
 
