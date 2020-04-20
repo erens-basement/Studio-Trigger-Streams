@@ -76,7 +76,9 @@ Part 2:
 * Shiba was still an intern at Trigger when they were doing LWA (TV), but he was involved in the game(?) for LWA.
 * H: Last year at the cons, a lot of overseas fans are very keen on Q&As, they know how to push buttons, all the questions he wanted to answer were asked within the first few minutes. Overseas fans have an interesting perspective and he enjoys the unique questions he's never thought about. 
 * What studio or what director would you like to work with? Chiba is currently learning under Director Amemiya, so he is amemiya's padawan. he's interested in working with him next.
-* 
+* Comments: Studio Trigger is a whore to working with anyone. T: We don't take any shame in that
+* Favorite US restaurants? Hiromi really loves IHOP, which is why there are so many in Promare. In LA, Hiromi loves Sap (Thai food). Most likely this restaurant: [Sapp Coffee Shop](https://goo.gl/maps/eM9ut5tTbc6jiXzs9)
+
 
 
 ### 6. [Live Drawing 6 - Akira Amemiya drawing a Mecha Shikishi for AX](https://www.twitch.tv/videos/445297992?t=01h03m30s)
@@ -165,6 +167,8 @@ Notes:
 * Only time they've done April Fool's was when they've announced Trigger girls on April 1st but they actually revealed them. 
 * 1st episode took several months to make while last episode was relatively quick (a few weeks) for KILL la KILL. 
 * Mago draws Tattun with large pupils and as a bird.
+* I have never taken drugs in my life. I'm super lightweight.
+
 
 
 ### [Inbetweens April 1, 2020](https://www.twitch.tv/videos/580438363)
@@ -180,7 +184,20 @@ Notes:
 * T: I am treated as the clown and joke of the studio. Oh that dude's doing some random crap that isn't gonna go well, wasting everyone's time. (02:52:00)
 
 
+## Contact Me
+Discord: Erens-Basement#4074<br>
+Reddit: Erens-Basement<br>
+Twitter: @erensbase
 
+## TODO: 
 
-Watching:
-https://www.twitch.tv/videos/431043693 5th part 2 35:45 
+In Progress:
+* 8th 
+* 4th (~35m)
+
+Completed:
+* April 1 Tattun
+* March 31 Tattun
+* Xmas
+* 5th pt 2 40m
+
