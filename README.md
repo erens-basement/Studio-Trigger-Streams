@@ -71,6 +71,12 @@ Part 2:
 * Most memorable work? He recently became a key animator form Promare, and he was able to work with Sushio. That's why it was so memorable, and more pressure. (0:09:00)
 * H: The more we use CGI in a show, the more cost effective it becomes. If it's only for 12 episodes, traditional animation is cheaper. For > 12 episodes or more seasons, CGI is cheaper. The more you use it the cheaper it becomes. 00:13:00)
 * He grew up with Yuusha series and Digimon. Hiromi grew up with Ghibli, Disney, Doraemon. 
+* Currently the live-streams are held in an empty room and it takes 3 hours to move the gear. Trigger is planning on moving and soon. Once they move, Moving out of Ogikubo, Integral Tower. Tattun gets his own streaming cubicle. (00:21:00)
+* [Best comedy series says Tattun and Hiromi.](https://www.amazon.co.jp/%E3%82%A2%E3%82%B4%E3%81%AA%E3%81%97%E3%82%B2%E3%83%B3%E3%81%A8%E3%82%AA%E3%83%AC%E7%89%A9%E8%AA%9E%EF%BC%881%EF%BC%89-%E3%83%A4%E3%83%B3%E3%83%9E%E3%82%ACKC%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-%E5%B9%B3%E6%9C%AC-%E3%82%A2%E3%82%AD%E3%83%A9/dp/4063367916) Oremonogatari. You should learn Japanese just for this. The OG Prison School. (00:26:00)
+* Shiba was still an intern at Trigger when they were doing LWA (TV), but he was involved in the game(?) for LWA.
+* H: Last year at the cons, a lot of overseas fans are very keen on Q&As, they know how to push buttons, all the questions he wanted to answer were asked within the first few minutes. Overseas fans have an interesting perspective and he enjoys the unique questions he's never thought about. 
+* What studio or what director would you like to work with? Chiba is currently learning under Director Amemiya, so he is amemiya's padawan. he's interested in working with him next.
+* 
 
 
 ### 6. [Live Drawing 6 - Akira Amemiya drawing a Mecha Shikishi for AX](https://www.twitch.tv/videos/445297992?t=01h03m30s)
