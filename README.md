@@ -60,13 +60,24 @@ Notes:
 Date: May 28, 2019<br>
 Artist: Kazuki Chiba<br> 
 Description: Sucy from Little Witch Academia<br>
-Guests: Hiromi (producer)<br>
+Guests: Hiromi (producer), 2 new PAs (00:24:20)<br>
 Tools: Wacom Cintiq 16 Tablet/Photoshop CC 2014<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-5th-live-27237214) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-5th-live-27237493) (patron access)<br>
-Notes:
+Notes:<br>
+Part 1:
+* Staff experience ranges from half a year to 30 years (the president).
+* When do you hire PAs? Trigger starts looking for PAs from late summer to fall, but people come in as part time or intern prior to graduating college.
+* KLK is the most valuable IP, original rights for Gridman lie between Subarai(?, creator of Gridman) and Trigger, so they do see some of the royalties when merch is sold.
+* Sushio likes paper and pencil over digital.
+* Chiba doesn't really have a preference in drawing, mechs or people, guy or girl, etc. But he does like drawing Muzzle from Trigger girls. 
+* Anohana was the first anime Chiba watched. He didn't watch anime that much but still drew a lot.
+* Chiba's favorite character is Mako from KLK, he likes her look at personality.
+* He used to work in media oriented work, and never worked on anime before Trigger. 
+* Hard to get a job for chara designer or illustrator? H: no clean cut answer for this question, Shigeto Koriyama is character design/illustration, but he also provides input to story and project, if you can add more than just character design, then you’ll be fine in the industry. 
+* Hobby: Chiba likes listening to radio.  
 
 Part 2:
-* Sushio-san and Tanaka-san was mentor especially for Kill la Kill and Anohana. Sushio worked as an in-between animator for DitF and he got to meet Tanaka-san. (00:03:00)
+* Sushio-san and Tanaka-san was mentor especially for Kill la Kill and Anohana. Sushio worked as an in-between animator for DitF and Chiba got to meet Tanaka-san. (00:03:00)
 * He wants to first become a chief animator, he wants to become staff and fill in spots, and experience various aspects (00:06:00)
 * Most memorable work? He recently became a key animator form Promare, and he was able to work with Sushio. That's why it was so memorable, and more pressure. (0:09:00)
 * H: The more we use CGI in a show, the more cost effective it becomes. If it's only for 12 episodes, traditional animation is cheaper. For > 12 episodes or more seasons, CGI is cheaper. The more you use it the cheaper it becomes. 00:13:00)
@@ -156,6 +167,18 @@ Notes:
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
 
+### [In betweens Mar 21, 2020](https://www.twitch.tv/videos/576478865)
+Date: Mar 21 2020
+Note:
+* If trigger goes in quarantine and self isolation, BNA will not finish.
+* Tattun hates the concept of time and deadlines.
+* T: You think AX is sweaty and smelly? AX is a breeze compared to comiket.
+* I was going to say K-on was for old creepy dudes, but people would've been mad. K-on is for...everyone
+* Before people would visit the Trigger office and they would let them have a peak of the studio. It was cool when people said they were from Mexico. Biggest reason for stopping people from visiting the studio was the Kickstarter studio tour tier prize. (1:10:00)
+* Tattun lives with his grandmother.
+* Tattun's cat will piss on him out of spite in the morning if he doesn't wake up. 
+
+
 ### [In betweens March 31, 2020](https://www.twitch.tv/videos/579679446)
 Dates: March 31, 2020
 Notes: 
@@ -194,6 +217,7 @@ Twitter: @erensbase
 In Progress:
 * 8th 
 * 4th (~35m)
+* Mar 21 tatt 1:08
 
 Completed:
 * April 1 Tattun
