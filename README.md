@@ -109,6 +109,13 @@ Notes:
 * Alexis in Gridman was designed by Koyama, chara de for Promare.
 * Hiromi really wants to do a Baywatch anime.
 * Anno and Eva impacted on his life, not just Gridman.
+* A: Doing more illustrations means you'll be faster. I may be fast, but Yoshinari is 5x faster. 
+* Q: Is it possible to be in the industry without animation school experience? A: I'm self taught, but being in the industry it does help to come from the schools. But at the end, it all boils down to if you're good or not.
+* Gainax motto: it doesn't matter how much experience you ahve in the industry, just if you're good or not. Gainax style: just get good.
+* Everything went smooth and well because I prayed.
+* Can you become an episode director from a PA? Mr. Mizushima did this, started from PA to director, Full Metal Alchemist.
+* What separates a pro from an amateur animator? H+A: There's no license in Japan for a "pro" animator. Professionals would be ones who receive a commission or request from a client. Amateur are people who do art for fun.
+
 
 
 
