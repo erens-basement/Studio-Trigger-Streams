@@ -15,10 +15,8 @@ Description: Akko from Little Witch Academia<br>
 Guests: Hiromi (producer)<br>
 Tools: N/A<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-hi-res-of-21792554) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-psd-file-21817844) (patron access)<br>
+Timelapse videos: [Hand cam/10 min vers](https://www.youtube.com/watch?v=JbHqadf6GpA) | [No cam/10 min vers](https://www.youtube.com/watch?v=HBRuS3LvXmc) | [No cam/full vers](https://www.youtube.com/watch?v=0Gbb6gRnayQ)<br>
 Notes:
-* [Timelapse video (hand camera/10 minute version)](https://www.youtube.com/watch?v=JbHqadf6GpA)
-* [Timelapse video (no camera/10 minute version)](https://www.youtube.com/watch?v=HBRuS3LvXmc)
-* [Timelapse video (no camera/full minute version](https://www.youtube.com/watch?v=0Gbb6gRnayQ)
 
 
 ### 2. [Live Drawing 2 - Akihiro Sato drawing Ryuuko from KILL la KILL](https://www.youtube.com/watch?v=PrQuxS_w2vE)
@@ -28,11 +26,8 @@ Description: Ryuko from KILL la KILL<br>
 Guests: Hiromi (producer)<br>
 Tools: Mobile Studio Pro 16 Tablet/Medibang Paint<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-2nd-live-23111345) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-2nd-live-23111530) (patron access)<br>
+Timelapse videos: Timelapse videos: [Hand cam/10 min vers](https://www.youtube.com/watch?v=9gyULko-9jE) | [Hand cam/long vers](https://www.youtube.com/watch?v=PrQuxS_w2vE) | [No cam/10 min vers](https://www.youtube.com/watch?v=OegWYBbcxt4) | [No cam/long vers](https://www.youtube.com/watch?v=wTbcgeY20TM)<br>
 Notes: 
-* [Timelapse video (no camera/long version)](https://www.youtube.com/watch?v=wTbcgeY20TM)
-* [Timelapse video (hand camera/long version)](https://www.youtube.com/watch?v=PrQuxS_w2vE)
-* [Timelapse video (no camera/10 minute version)](https://www.youtube.com/watch?v=OegWYBbcxt4)
-* [Timelapse video (hand camera/long version)](https://www.youtube.com/watch?v=9gyULko-9jE)
 
 
 ### 3. [Live Drawing 3 - Tetsuya Sakurai drawing Satsuki from KILL la KILL](https://www.twitch.tv/videos/383698751?t=00h27m02s)
@@ -95,9 +90,9 @@ Description: Galo from PROMARE<br>
 Guests: Hiromi (producer)<br>
 Tools: Apple Macbook Pro 2015, Wacom Cintiq Pro 16" Tablet, Clip Studio Paint, Adobe Photoshop<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-trigger-30102938) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-trigger-30103231) (patron access)<br>
+Timelapse videos: [10 minute version](https://www.youtube.com/watch?v=9spwbklxRvg) | [full version](https://www.youtube.com/watch?v=l5ZEGT3H60o)<br>
 Notes:
-* [Timelapse video (10 minute version)](https://www.youtube.com/watch?v=9spwbklxRvg)
-* [Timelapse video (full version)](https://www.youtube.com/watch?v=l5ZEGT3H60o)
+
 
 
 
@@ -108,14 +103,14 @@ Description: Lio from PROMARE, Halloween-themed<br>
 Guests: Hiromi (producer)<br>
 Tools: iPad Pro 3rd Gen. and Apple Pencil Gen 2/Procreate<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-trigger-31155436) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-trigger-31155287) (patron access)<br>
+Timelapse video: [10 minute version](https://www.youtube.com/watch?v=l5ZEGT3H60o) | [full version](https://www.youtube.com/watch?v=-QL87ep2Jas)<br>
 Notes:
 * Hiromi: For all Imaishi/Nakashima works, they don't like settling birthday/zodiac symbol. Most characters in their series don't have publicly disclosed birthdays or zodiac symbols. According to Nakashima, he doesn't want his character to be swayed by their birth dates/zodiac symbols and wants viewers to judge how they are portrayed in the story. (00:16:30)
 * Halloween isn't big/relatively new in Japan, except for nightlife in Shibuya recently the past 5 years (00:25:49)
 * Shunpei is using the dry ink brush (profile) which has a pencil stroke/texture to it, very popular among other staff (00:28:35)
 * Sushio was ego-searching/looking up his name on Twitter for Promare(?) (00:46:30)
 * When they were transitioning to digital, Yoshinari said Imaishi was better with traditional paper/pencil (00:51:30)
-* [Timelapse video (10 minute version)](https://www.youtube.com/watch?v=l5ZEGT3H60o)
-* [Timelapse video (full version)](https://www.youtube.com/watch?v=-QL87ep2Jas)
+
 
 ### 9. [Christmas Live Drawing Special - Imaishi animating a sequence with PROMARE characters](https://www.twitch.tv/videos/526051066?t=0h6m57s)
 Date: December 25, 2019<br>
