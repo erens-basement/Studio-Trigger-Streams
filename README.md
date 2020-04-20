@@ -43,6 +43,11 @@ Guests: Hiromi (producer)<br>
 Tools: ??? Tablet/Paint Tool SAI Ver. 2<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-3rd-live-24876605) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-3rd-live-24876793) (patron access)<br>
 Notes:
+* Sakurai eventually wants to become a key animator and try being an episode director.
+* He's using an Intos 5 tablet medium size, his own personal equipment.
+* Put in a request to draw a girl. He likes drawing human characters and not mechanical objects.
+* Q: Would Trigger hire more foreign animators if the language barrier is solved? Hiromi: There are a multitude of reasons we can't hire foreign animators, like visas, etc. We do hire several overseas staff. It's more of a financial issue for Trigger, like sustaining visas are expensive.  
+* In terms of animation, Sakurai watches a little of Disney, Pixar, and looking forward to the Spiderverse film.
 
 ### 4. [Live Drawing 4 - Mago drawing Luluco from Space Patrol Luluco and Trigger-chan (mascot)](https://www.twitch.tv/videos/394802437?t=0h6m8s)
 Date: Mar 13, 2019<br>
@@ -64,6 +69,14 @@ Guests: Hiromi (producer)<br>
 Tools: Wacom Cintiq 16 Tablet/Photoshop CC 2014<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-5th-live-27237214) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-5th-live-27237493) (patron access)<br>
 Notes:
+
+Part 2:
+* Sushio-san and Tanaka-san was mentor especially for Kill la Kill and Anohana. Sushio worked as an in-between animator for DitF and he got to meet Tanaka-san. (00:03:00)
+* He wants to first become a chief animator, he wants to become staff and fill in spots, and experience various aspects (00:06:00)
+* Most memorable work? He recently became a key animator form Promare, and he was able to work with Sushio. That's why it was so memorable, and more pressure. (0:09:00)
+* H: The more we use CGI in a show, the more cost effective it becomes. If it's only for 12 episodes, traditional animation is cheaper. For > 12 episodes or more seasons, CGI is cheaper. The more you use it the cheaper it becomes. 00:13:00)
+* He grew up with Yuusha series and Digimon. Hiromi grew up with Ghibli, Disney, Doraemon. 
+
 
 ### 6. [Live Drawing 6 - Akira Amemiya drawing a Mecha Shikishi for AX](https://www.twitch.tv/videos/445297992?t=01h03m30s)
 Date: Jun 28, 2019<br>
@@ -139,6 +152,14 @@ Notes:
 
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
+
+### [In betweens March 31, 2020](https://www.twitch.tv/videos/579679446)
+Dates: March 31, 2020
+Notes: 
+* Q: Do the staff ever ask you to translate for leisure? All the time, for movies they would take him to Star Wars and Solo to as him.
+* He fell asleep for Solo and Black Panther, he had to watch Black Panther 3 times and Solo twice (they were visiting in the states)
+* Whiplash was the lat moving he really enjoyed. And Rush (car movie).
+
 
 ### [Inbetweens April 1, 2020](https://www.twitch.tv/videos/580438363)
 Date: April 1, 2020
