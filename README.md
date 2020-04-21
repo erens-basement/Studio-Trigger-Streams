@@ -13,7 +13,7 @@ Date: Sep 28, 2018<br>
 Artist: Yoh Yoshinari (director/animator)<br> 
 Description: Akko from Little Witch Academia<br>
 Guests: Hiromi (producer)<br>
-Tools: N/A<br>
+Tools: Wacom Cintiq 14(?)/Photoshop CC<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-hi-res-of-21792554) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-psd-file-21817844) (patron access)<br>
 Timelapse videos: [Hand cam/10 min vers](https://www.youtube.com/watch?v=JbHqadf6GpA) | [No cam/10 min vers](https://www.youtube.com/watch?v=HBRuS3LvXmc) | [No cam/full vers](https://www.youtube.com/watch?v=0Gbb6gRnayQ)<br>
 Notes:
@@ -35,7 +35,7 @@ Date: Feb 20, 2019<br>
 Artist: Tetsuya Sakurai (in-between animator)<br>
 Description: Satsuki Kiryuin from KILL la KILL<br>
 Guests: Hiromi (producer)<br>
-Tools: ??? Tablet/Paint Tool SAI Ver. 2<br>
+Tools: Intuos 5 Medium Tablet/Paint Tool SAI Ver. 2<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-3rd-live-24876605) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-3rd-live-24876793) (patron access)<br>
 Notes:
 * Sakurai eventually wants to become a key animator and try being an episode director.
@@ -83,7 +83,7 @@ Part 2:
 * H: The more we use CGI in a show, the more cost effective it becomes. If it's only for 12 episodes, traditional animation is cheaper. For > 12 episodes or more seasons, CGI is cheaper. The more you use it the cheaper it becomes. 00:13:00)
 * He grew up with Yuusha series and Digimon. Hiromi grew up with Ghibli, Disney, Doraemon. 
 * Currently the live-streams are held in an empty room and it takes 3 hours to move the gear. Trigger is planning on moving and soon. Once they move, Moving out of Ogikubo, Integral Tower. Tattun gets his own streaming cubicle. (00:21:00)
-* [Best comedy series says Tattun and Hiromi.](https://www.amazon.co.jp/%E3%82%A2%E3%82%B4%E3%81%AA%E3%81%97%E3%82%B2%E3%83%B3%E3%81%A8%E3%82%AA%E3%83%AC%E7%89%A9%E8%AA%9E%EF%BC%881%EF%BC%89-%E3%83%A4%E3%83%B3%E3%83%9E%E3%82%ACKC%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-%E5%B9%B3%E6%9C%AC-%E3%82%A2%E3%82%AD%E3%83%A9/dp/4063367916) Oremonogatari, アゴなしゲンとオレ物語. You should learn Japanese just for this. The OG Prison School. (00:26:00)
+* [Best comedy series says Tattun and Hiromi.](https://www.amazon.co.jp/%E3%82%A2%E3%82%B4%E3%81%AA%E3%81%97%E3%82%B2%E3%83%B3%E3%81%A8%E3%82%AA%E3%83%AC%E7%89%A9%E8%AA%9E%EF%BC%881%EF%BC%89-%E3%83%A4%E3%83%B3%E3%83%9E%E3%82%ACKC%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-%E5%B9%B3%E6%9C%AC-%E3%82%A2%E3%82%AD%E3%83%A9/dp/4063367916) Oremonogatari, アゴなしゲンとオレ物語. You should learn Japanese just for this. The OG Prison School. [Link](https://www.twitch.tv/studio_trigger/clip/CreativeCooperativeStorkTF2John) (00:26:00) 
 * Shiba was still an intern at Trigger when they were doing LWA (TV), but he was involved in the game(?) for LWA.
 * H: Last year at the cons, a lot of overseas fans are very keen on Q&As, they know how to push buttons, all the questions he wanted to answer were asked within the first few minutes. Overseas fans have an interesting perspective and he enjoys the unique questions he's never thought about. 
 * What studio or what director would you like to work with? Chiba is currently learning under Director Amemiya, so he is amemiya's padawan. he's interested in working with him next.
@@ -129,7 +129,30 @@ Tools: Apple Macbook Pro 2015, Wacom Cintiq Pro 16" Tablet, Clip Studio Paint, A
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-trigger-30102938) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-trigger-30103231) (patron access)<br>
 Timelapse videos: [10 minute version](https://www.youtube.com/watch?v=9spwbklxRvg) | [full version](https://www.youtube.com/watch?v=l5ZEGT3H60o)<br>
 Notes:
-
+* Hiromi oversaw the selection for the dubbing voice actor of Galo.
+* Koyama doesn't have that much free time to draw for fun, used to, but not now. But he doodles from time to time on towels or napkins. Like trump doodles.
+* Q: Any advice for aspiring animators? K: Not much he can comment, young people are really talented these days. If I could say anything, I want all talented people to jump off a building with their arms spread so they can't draw anymore. [Link](https://clips.twitch.tv/GrossAwkwardDumplingsTwitchRPG) (00:40:00)
+* K: Lio is my favorite character but he also likes drawing Ignis.
+* Koyoma has a PS brush preset called pubic hair brush.
+* Hiromi specifically requested the tiny tail on the back of Lio de Galo.
+* Q: How many episode runners (PAs) do you hire per year? A: About 3 PAs per year, usually when they get experience, they'll go up to episode director or producer. That's why they're always in a deficit per year.
+* For the CG, they used Software is 3ds max , sangigen did 3D for promare 
+* For Nakashima’s works, he doesn’t want to have birthdays so people aren’t concerned about the tiny details. 
+* How do you determine which scene gets revised for blu ray release? (retake) It’s usually if a certain scene isn’t executed as intended, color was off, very technical details. Requests come from both studio and sponsor.
+* What would you do if you were a civilian or promopilis? K: They wouldn’t be eating the pizzas for sure, but they’ll probably try to overthrow the governor or become a bro with the governor.
+* We made a lot of requests for the dub with Galo. We want zac efron plus Channing Tatum for galo. (1:37:00) 
+* If there is a promare manga, it has to be full color. 
+* It takes three times more effort to draw promare than other anime. Normally they use one outline color black/brown for outlines, for promare, they used self colored lines, outline color for hair, clothing, and third one for skin tones. It takes 3 times more effort to execute. It was not the colorists on their own, request from director. 
+* The G on the Matoi tech stands for Gaian gear, manufacturer in the Promare universe.
+* Hiromi chose pizza because it’s something you share with family or friends/communal type of food, symbolize burning rescue as a team.
+* They tweaked and messed around with the kanji for the tattoos in promare and made a common mistake they see people in America with kanji/Chinese tattoos. 
+* Yonkers fire station in New York, idea came from the captain who had his own jacket but customized to be like a staff which is where they got the ideal for differing uniforms. 2:20
+* To respect Nakashima, they can't be too liberal with their Geek Boat universe stories they have to check in once in a while. H: according to the last stream, Nakashima said.
+* H: they were pretty finished before they received the main theme track/song, so they made requests to stretch out parts of the music etc to fit the scene better.
+* Q: How did you get started as character designer and starter artbooks? For artbook, Koyama suggests Sushi encyclopedia. Reasoning is if you don't eat good food, you won't get better at drawing. You have to start from knowing which food is delicious 2:35:00
+https://clips.twitch.tv/ConsiderateInventiveWallabyWholeWheat
+* Drawing illustration was always something Koyama did but he became aware when he worked for Diebuster the joy of designing instead of illustrating. 
+* The PC, mics, streaming equipment was all supported by Patreon funding.
 
 
 
@@ -188,7 +211,7 @@ Streams where he's flipping through in-betweens and answering questions
 ### [In betweens Mar 21, 2020](https://www.twitch.tv/videos/576478865)
 Date: Mar 21 2020
 Note:
-* If trigger goes in quarantine and self isolation, BNA will not finish.
+* If trigger goes in quarantine and self isolation, BNA will not finish. [Link](https://www.twitch.tv/studio_trigger/clip/ImportantDeterminedMageTinyFace)
 * Tattun hates the concept of time and deadlines.
 * T: You think AX is sweaty and smelly? AX is a breeze compared to comiket.
 * I was going to say K-on was for old creepy dudes, but people would've been mad. K-on is for...everyone
@@ -236,11 +259,11 @@ In Progress:
 * 8th 
 * 4th (~35m)
 * Mar 21 tatt 2:00
-* amemiya 6
+* 7 koyama
 
 Completed:
+* 5th live drawing
+* amemiya 6
+* Xmas (9)
 * April 1 Tattun
 * March 31 Tattun
-* Xmas (9)
-* 5th live drawing
-
