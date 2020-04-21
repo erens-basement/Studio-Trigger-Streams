@@ -140,6 +140,7 @@ Notes:
 * For Nakashima’s works, he doesn’t want to have birthdays so people aren’t concerned about the tiny details. 
 * How do you determine which scene gets revised for blu ray release? (retake) It’s usually if a certain scene isn’t executed as intended, color was off, very technical details. Requests come from both studio and sponsor.
 * What would you do if you were a civilian or promopilis? K: They wouldn’t be eating the pizzas for sure, but they’ll probably try to overthrow the governor or become a bro with the governor.
+* Hiromi fireman jacket.png (1:32:00)
 * We made a lot of requests for the dub with Galo. We want zac efron plus Channing Tatum for galo. (1:37:00) 
 * If there is a promare manga, it has to be full color. 
 * It takes three times more effort to draw promare than other anime. Normally they use one outline color black/brown for outlines, for promare, they used self colored lines, outline color for hair, clothing, and third one for skin tones. It takes 3 times more effort to execute. It was not the colorists on their own, request from director. 
@@ -149,11 +150,14 @@ Notes:
 * Yonkers fire station in New York, idea came from the captain who had his own jacket but customized to be like a staff which is where they got the ideal for differing uniforms. 2:20
 * To respect Nakashima, they can't be too liberal with their Geek Boat universe stories they have to check in once in a while. H: according to the last stream, Nakashima said.
 * H: they were pretty finished before they received the main theme track/song, so they made requests to stretch out parts of the music etc to fit the scene better.
-* Q: How did you get started as character designer and starter artbooks? For artbook, Koyama suggests Sushi encyclopedia. Reasoning is if you don't eat good food, you won't get better at drawing. You have to start from knowing which food is delicious 2:35:00
-https://clips.twitch.tv/ConsiderateInventiveWallabyWholeWheat
+* Q: How did you get started as character designer and starter artbooks? For artbook, Koyama suggests [Sushi Encyclopedia/すし図鑑](https://www.amazon.co.jp/%E3%81%99%E3%81%97%E5%9B%B3%E9%91%91-%E3%81%BC%E3%81%86%E3%81%9A%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF-%E8%97%A4%E5%8E%9F-%E6%98%8C%E9%AB%98/dp/4839943389). Reasoning is if you don't eat good food, you won't get better at drawing. You have to start from knowing which food is delicious. [(2:35:00)](https://clips.twitch.tv/ConsiderateInventiveWallabyWholeWheat)
 * Drawing illustration was always something Koyama did but he became aware when he worked for Diebuster the joy of designing instead of illustrating. 
 * The PC, mics, streaming equipment was all supported by Patreon funding.
-
+* Usually Amemiya is the lewd police and doesn't allow anything lewd in the series.
+* Hiromi and Koyama are eating shogayaki (ginger pork) bento, popular comfort food.
+* Squid sushi = Klay, Tuna = Galo, Lio = seaweed sushi
+* In Nakano, Tokyo, [Satou Kichijōji (butchery)](https://www.shop-satou.com/) (the place they got their bento from) has really good bento.
+* Narichi Furu drew the logo for Promare, also Kill la Kill, Evangelion, etc.
 
 
 ### 8. [Live Drawing 8 - Shunpei Gunyasu drawing Lio from PROMARE, Halloween-themed](https://www.twitch.tv/videos/499247339?t=0h2m18s) 
