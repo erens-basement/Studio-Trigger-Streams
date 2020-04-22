@@ -51,10 +51,24 @@ Description: Luluco from Space Patrol Luluco and Trigger-chan<br>
 Guests:Hiromi (producer)<br>
 Tools: Wacom Cintiq 16 Tablet/Paint Tool SAI Ver. 1<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-4th-live-25362676) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-4th-live-25363714) (patron access)<br>
+Artist's twitter: [@magodesu](https://twitter.com/magodesu/)<br>
 Notes: 
 * Mago is a manga artist.
 * Hiromi: I can't comment on the ending plot of DarliFra, but I was satisfied with the DitF ending animation sequence. (which he produced)
-* Many Japanese studios/production committees don't put much thought/look into the dubbing process from overseas distributors; Trigger would be interested in directing the dub if the opportunity arises. (00:35:00)    
+* Many Japanese studios/production committees don't put much thought/look into the dubbing process from overseas distributors; Trigger would be interested in directing the dub if the opportunity arises. (00:35:00)
+* Mago doesn't use a sketch book. She draws digitally, and tosses it on her Twitter.
+* Q: Does piracy hurt the industry? H: Nowadays you can watch whatever you can see in Japan. In the past, you couldn't and had to illegally download. Those were the people who supported the community. It used to be a necessary evil. Even if you do watch our stuff illegally, and enjoy it, please watch it legally because it leads to the success of the general industry. (00:48:00)
+* Favorite character outside Trigger? Pirate character ([Atoi](https://myanimelist.net/character/130459/Atoi)) in [Nintama Rantaro.](https://en.m.wikipedia.org/wiki/Nintama_Rantarō) 
+* Mago likes Gary from Spongebob and Gwen in Spiderverse.
+* Q: Did you know Luluco will become Trigger Chan when you designed it? H: For an April Fool's joke they were making a new anime series with mascots (Trigger Girls), which Mago drew, then Hiromi made a special request to connect it with Luluco to Imaishi to get Mago to be the designer. He also requested at the end for Luluco to transform into trigger chan. (1:06:00)
+* H: In all of Imaishi's works, his main characters have their hair spiked up. Maybe it's because the characters are rebelling what's oppressing him.
+* Luluco is short hair because usually short hair girls are perceived as more energetic.
+* Q: Was it hard to adapt Kaiju for chibi line art stamps. A: It wasn't at all, the mechs were harder.
+* Mago's favorite accessories and things to draw? She loves to draw sneakers and draw AF-1's. She owns most are Air Jordan's.
+* Mago prefers drawing girls over guys. She especially doesn't like drawing old guys. Luluco's father was designed by another animator. 
+* Mago doesn't feel tied to drawing, she thinks she can pivot to another job. Last year, mago part timed at a shoe store because she felt like she needed a break from drawing. 
+* Hiromi's into building Legos recently. Eventually he wants to build mechs from Promare with Legos when he has time. 
+* Mago plays Fortnite on iPad.
 
 ### 5. [Live Drawing 5 - Kazuki Chiba drawing Sucy from Little Witch Academia (Part 1)](https://www.twitch.tv/videos/431029877) | [Part 2](https://www.twitch.tv/videos/431043693)
 Date: May 28, 2019<br>
@@ -158,6 +172,7 @@ Notes:
 * Squid sushi = Klay, Tuna = Galo, Lio = seaweed sushi
 * In Nakano, Tokyo, [Satou Kichijōji (butchery)](https://www.shop-satou.com/) (the place they got their bento from) has really good bento.
 * Narichi Furu drew the logo for Promare, also Kill la Kill, Evangelion, etc.
+* Inferno Cop is Koyama's favorite character.
 
 
 ### 8. [Live Drawing 8 - Shunpei Gunyasu drawing Lio from PROMARE, Halloween-themed](https://www.twitch.tv/videos/499247339?t=0h2m18s) 
