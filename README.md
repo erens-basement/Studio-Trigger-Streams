@@ -222,7 +222,10 @@ Note:
 * Before people would visit the Trigger office and they would let them have a peak of the studio. It was cool when people said they were from Mexico. Biggest reason for stopping people from visiting the studio was the Kickstarter studio tour tier prize. (1:10:00)
 * Tattun lives with his grandmother.
 * Tattun's cat will piss on him out of spite in the morning if he doesn't wake up. 
-
+* Next favorite gun, M1 with an EBR custom.
+* Luluco and Diana are Tattun's favorite Trigger characters.
+* He loves 24 hour street taco stands in LA.
+* BNA staff are busy but expect a BNA related Q&A in May.
 
 ### [In betweens March 31, 2020](https://www.twitch.tv/videos/579679446)
 Dates: March 31, 2020
@@ -262,12 +265,13 @@ Twitter: @erensbase
 In Progress:
 * 8th 
 * 4th (~35m)
-* Mar 21 tatt 2:00
-* 7 koyama
 
 Completed:
 * 5th live drawing
 * amemiya 6
+* 7 koyama
 * Xmas (9)
+
+* Mar 21 tatt 2:00
 * April 1 Tattun
 * March 31 Tattun
