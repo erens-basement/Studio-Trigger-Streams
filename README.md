@@ -43,6 +43,21 @@ Notes:
 * Put in a request to draw a girl. He likes drawing human characters and not mechanical objects.
 * Q: Would Trigger hire more foreign animators if the language barrier is solved? Hiromi: There are a multitude of reasons we can't hire foreign animators, like visas, etc. We do hire several overseas staff. It's more of a financial issue for Trigger, like sustaining visas are expensive.  
 * In terms of animation, Sakurai watches a little of Disney, Pixar, and looking forward to the Spiderverse film.
+* How much say do producers have in the creative decision? Hiromi: It depends on the project, sometimes producers have the idea and look for directors, animators to execute the idea or sometimes they just help the directors out. With studio trigger, it’s a lot more flexible who has creative input. 
+* Sakurai likes kyo ani, but only applied to trigger and not kyo ani because he wants to keep kyo ani sacred and enjoyable as a hobby. 
+* Hiromi: Promare’s genre is Super lit mega action rescue human drama. 
+* Sakurai wants to see Powerpuff Girls done in Yoshinari’s style. 
+* Q: Are there certain anime seasons that are easier for studios. Is there a laidback season? A: They don’t have a laidback season, usually a period of time after they finish a series, between series. Hiromi wants to work on a project where the work doesn’t carry over New Year’s Eve. 
+* Q: Will trigger ever do isekai? A: They’re too busy with other ideas and don’t have a plan. But if they do isekai, it will be original and not an adaptation
+* Q: How is OP/ED determined for a series? A: If a creative staff for a series wants to throw in an opinion, they might make a request to the production committee which has a production label company what kind of soundtrack, etc who will try to accommodate. In the case where it doesn’t have a preference, the music production company chooses fully. For trigger, it depends on the production group for Imaishi/wakabayashi team they do make requests for the label companies. And generally for the director, the director is interested in choosing who is in charge of the soundtrack for series. 2:06:00
+* Sakurai‘s favorite manga is Dungeon Meshi. Sakurai likes Zelda.
+* Switch is popular at Trigger. Everyone is playing Smash Bros. 
+* Tattun: one of my favorite titles was ruined by app games. (Not Diablo)
+* Tattun: Yoshinari: when I was younger, I don't think animators were this good. Just like Olympics, nowadays young animators have improved so much. 
+* Comment: Animation budget was so much higher in the 80s H: that's not really true. Budget != Quality. Pretty much similar budget between now and then. There are a lot of factors. More staff now compared to the 80s. Passion of creators determines the quality more than budget. However, more budget will help. 
+* Q: what does trigger have in their snack pantry? H: they don't have a bar pantry. They do want one. But when they do receive snacks from fans and gifts they do share it together communally. All oversea studios they tour had some food pantry and trigger wants one too. Personally, knowing myself if we had a bar, kitchen, I would've gotten bored of the menu quick or use  it once or twice. T: I know he would use it frequently, he guzzles coffee a lot. 
+* They can't do a studio tour stream. They would have to tear down the entire studio to avoid leaks. Too much risk. 
+* Q: Trigger documentaries focused more on the voice actors than artists. Why focused on voice actors more? (2:59:00) H: It's more straining for the studio, detrimental to studio, productivity, etc. A lot of our staff don't like being photoed or recorded. Docs are more entertaining when the camera crew ignore privacy and barge into personal space. They can't do that anymore because they're delicate people. Personally hiromi wants to do more documentaries on the creative process. 
 
 ### 4. [Live Drawing 4 - Mago drawing Luluco from Space Patrol Luluco and Trigger-chan (mascot)](https://www.twitch.tv/videos/394802437?t=0h6m8s)
 Date: Mar 13, 2019<br>
@@ -189,7 +204,7 @@ Notes:
 * Shunpei is using the dry ink brush (profile) which has a pencil stroke/texture to it, very popular among other staff (00:28:35)
 * Sushio was ego-searching/looking up his name on Twitter for Promare(?) (00:46:30)
 * When they were transitioning to digital, Yoshinari said Imaishi was better with traditional paper/pencil (00:51:30)
-
+* Fans are embarrassed where original creators view their fanwork in Japan. (1:00:00)
 
 ### 9. [Christmas Live Drawing Special - Imaishi animating a sequence with PROMARE characters](https://www.twitch.tv/videos/526051066?t=0h6m57s)
 Date: December 25, 2019<br>
@@ -270,6 +285,28 @@ Notes:
 * T: I am treated as the clown and joke of the studio. Oh that dude's doing some random crap that isn't gonna go well, wasting everyone's time. (02:52:00)
 
 
+## Misc Streams
+
+### [PROMARE nendroid unboxing](https://www.twitch.tv/videos/558038349?t=0h8m30s)
+Guests: Hiromi, Koyama, Mami
+Description: Building Galo Kamina nendroid,Galo, Lio, and Frag plushies. figure stands, BD jacket  
+Notes:
+* 21:16 Koyama sticks a nendroid stand up nose.
+* 25:50 Koyama reviews banana chips and spills them.
+* 33:50 Koyama penguin doodle (icon). In any Geekboat stream, if anything entertains them or helps them out, they gift you with an icon (penguin).
+* 38:20 Hiromi: real fans will sense when a stream is coming, you don't need announcements. 
+* 1:00:00 Galo with Kamina's cape.
+* 1:04:00 Plushies: Plushies: Frag (grenade) from the mascot (designed by Koyama), Galo, Lio. 
+* 1:05:53 GALO INTENSIFIES, Koyama playing with Galo plushie.
+* The reason why Nendroid for Promare came out so quick is because Koyama is part of the review process for Good Smile Company. He reviewed for SAO and FSN figures in the past. He reviews 100 figures in a year, 40 titles. He was also heavily involved in the figure making process for Promare. (There's an article somewhere with Koyama and nendroid making).
+* Koyama used to work as a radio station script writer a long time ago.
+* 1:27:33 Koyama and Hiromi playing and making the plushies move.
+* 1:30:30 Lio and Galo's plushie ears are nice to touch.
+* 1:32:00 Limited edition BD with interchangeable jacket cover.
+* 1:35:20 Promare character pop quiz (winner gets Koyama icon).
+
+
+
 ## Contact Me
 Discord: Erens-Basement#4074<br>
 Reddit: Erens-Basement<br>
@@ -278,14 +315,14 @@ Twitter: @erensbase
 ## TODO: 
 
 In Progress:
-* 8th 
-* 4th (~35m)
+* 8th 50:14
 
 Completed:
-* 5th live drawing
-* amemiya 6
-* 7 koyama
-* Xmas (9)
+* 4th mago
+* 5th chiba
+* 6th amemiya
+* 7th koyama
+* 9th imaishi
 
 * Mar 21 tatt 2:00
 * April 1 Tattun
