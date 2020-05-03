@@ -194,7 +194,7 @@ Notes:
 Date: Oct 25, 2019<br>
 Artist: Shunpei Gunyasu (key animator)<br>
 Description: Lio from PROMARE, Halloween-themed<br>
-Guests: Hiromi (producer)<br>
+Guests: Hiromi (producer), Mami (1:31:37), Koyama/co-workers in chat<br>
 Tools: iPad Pro 3rd Gen. and Apple Pencil Gen 2/Procreate<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-trigger-31155436) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-trigger-31155287) (patron access)<br>
 Timelapse video: [10 minute version](https://www.youtube.com/watch?v=l5ZEGT3H60o) | [full version](https://www.youtube.com/watch?v=-QL87ep2Jas)<br>
@@ -203,8 +203,24 @@ Notes:
 * Halloween isn't big/relatively new in Japan, except for nightlife in Shibuya recently the past 5 years (00:25:49)
 * Shunpei is using the dry ink brush (profile) which has a pencil stroke/texture to it, very popular among other staff (00:28:35)
 * Sushio was ego-searching/looking up his name on Twitter for Promare(?) (00:46:30)
+* The artist for the live drawings are chosen randomly with a raffle so it's more fair. That's why Sushio hasn't been chosen. (00:53:00)
 * When they were transitioning to digital, Yoshinari said Imaishi was better with traditional paper/pencil (00:51:30)
 * Fans are embarrassed where original creators view their fanwork in Japan. (1:00:00)
+* Hiromi likes criticism. He has a strong mind and steel-like fortitude, he doesn't get withered by criticism, so does Koyama. A long time ago they went on 4chan, and they accepted the toxicity as the culture there. There was a comment saying these dudes have balls of steel, and Hiromi likes that comment and thinks he does have balls of steel.
+* 1:27 going to key ankmoator
+* Hiromi Pizza making (1:36:00) stub
+* Gunyasa's old teacher/professor is watching the stream too (1:46:00)
+* Gunyasa appreciates Honda who made Eva. 
+* His older sister used to draw. He started drawing when he was young but started taking it seriously in high school, where he was thinking about his future and wanted to work a job he enjoyed. He doesn't think he can draw better than his sister, his sister draws traditional Japanese artwork 
+* Who has the most toys Undisputed Amemiya has the most, his is the most messy. Sakamoto has the next most. Sushio and Imaishi have a lot but no where near those two. (2:25:00)
+* Trigger is open to fan letters. Send to the Trigger president (2:27:30) 
+* How does Gunyasa apply shadows? Gunyasa uses a tool called Multiply to apply them. 
+* Promare had a gyoza collaboration. (2:49:50) 
+* Hiromi would do a collaboration with Coca-cola, McDonald's, Apple, Windows, Nike, Netflix. (2:51:00)
+* Q: What is your favorite food to put in oden? Gunyasa likes dikon radish, Hiromi likes kombucha, Tattun likes eggs. 
+* H: In regards to collaborating with restaurants etc, We don't really think with benefits us or not too much. Usually they care if it's entertaining or not. Though they are more concerned about the quality aspect. 
+* How do you like your eggs? H: He likes scrambled eggs, kind of raw. Gunyasa likes boiled eggs. Tattun likes eggs in general, and can drink them raw.
+* Gunyasu is a fan of the MCU, but doesn't read the comics.
 
 ### 9. [Christmas Live Drawing Special - Imaishi animating a sequence with PROMARE characters](https://www.twitch.tv/videos/526051066?t=0h6m57s)
 Date: December 25, 2019<br>
