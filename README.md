@@ -273,7 +273,8 @@ Note: (1 hr)
 * Italy is the best country he's visited so far.
 * Tattun reads more manga than watch anime. He goes to the bookstore and if it's interesting, he'll get it.
 * Shikishi cost breakdown, sold 30USD/unit (est.): $30-40 altogether for shipping, $10 altogether for wooden sheets (have to get them cut at local hardware store - $2/unit bulk). Usually have $30-40 lying around after that process. Money doesn't go individually to the person who drew, too complicated, but a portion of the Patreon money goes to the people that draw them. >80USD per person. (1:06:00)   
-* Tattun is hoping to share information and breakdown of the donation money, but he's waiting for word from the executives. None of the money is going to the actual studio. (1:07:00)
+* Tattun is hoping to share information and breakdown of the donation money, but he's waiting for word from the executives. It's been a year. None of the money is going to the actual studio. (1:07:00)
+https://www.twitch.tv/videos/470171643?t=1h8m4s 
 
 
 
