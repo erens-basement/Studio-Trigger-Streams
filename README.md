@@ -274,10 +274,24 @@ Note: (1 hr)
 * Tattun reads more manga than watch anime. He goes to the bookstore and if it's interesting, he'll get it.
 * Shikishi cost breakdown, sold 30USD/unit (est.): $30-40 altogether for shipping, $10 altogether for wooden sheets (have to get them cut at local hardware store - $2/unit bulk). Usually have $30-40 lying around after that process. Money doesn't go individually to the person who drew, too complicated, but a portion of the Patreon money goes to the people that draw them. >80USD per person. (1:06:00)   
 * Tattun is hoping to share information and breakdown of the donation money, but he's waiting for word from the executives. It's been a year. None of the money is going to the actual studio. (1:07:00)
-https://www.twitch.tv/videos/470171643?t=1h8m4s 
-
-
-
+* I first encountered the furry community quite recently. 4-5 years ago, Tattun used to post Yoshinari's artwork on Deviantart, asked by his wife to. He was kinda interested what kinda people were interested in yoshinari's art, and a lot of people were furries. I don't judge kinks, I love those things too. A lot of interesting, kinky stuff they follow. (1:13:00)
+* Patreon has been getting hate since the beginning. People are always going to hate. If I can get 60% of the patreon supporters liking the content and 40% disliking, that's okay in my book.
+* Tattun doesn't like isekai or OP main characters.
+* Mako is his least favorite KLK character. 
+* I like Satsuki's eyebrows. They're like rottweiler eyebrow patches. At least for Rottweilers I like touching them. 
+* Not a sweet tooth likes salty spicy stuff. Big fan of Mexican and Korean food. Chigae, soondubu
+* How's turnover rate at Trigger: If they last the year, they'll probably stick around for at least a couple years. It's the first year I'd they'll stick around or not. 3:06
+* Archive is insane. Each episode yields 4-6 boxes of frames. 2 seasons of anime = 40+ boxes. They usually ship them to a countryside storage space. (1:57:00)
+* Pigmalio and Birdie are series that he likes that are underappreciated.
+* Work and sick hours at Trigger are pretty flexible (for PR). At least the unspoken impression.
+* Busiest time for Tattun is during the mid-summer con season. Also when he has to review subs for English, which is stressful (he doesn't usually do).
+* Younger animators like doing the live drawings because they get extra spending money. Not sure about the veteran animators. Shishiki's artists get a small cut. (2:36:00)
+* Coffee at Trigger is instant type.
+* Trigger only has 2 composite staff. 
+* For anniversaries, they usually order a bunch of food and have an in house party.
+* There are rumors fans go dumpster diving near popular studios, at least the creepier fans. I think we burn them [the in betweens] though, I've never seen the these stuff thrown away.
+* Hiromi likes playing Gran Blue Fantasy.
+* Nakaniku ATK one of Tattun's favorite illustrators.
 
 ### [New Years/Shikishi](https://www.twitch.tv/videos/532736579?t=0h3m18s)
 Date: Jan 8 2020
@@ -359,7 +373,7 @@ Twitter: @erensbase
 ## TODO: 
 
 In Progress:
-* first in between one https://www.twitch.tv/videos/470171643?filter=archives&sort=time 8/21/19
+
 
 
 Completed:
@@ -377,4 +391,5 @@ Completed:
 
 * Shikishi (1/8/2020)
 
+* first in between one 8/21/19
 * Merch unboxing
