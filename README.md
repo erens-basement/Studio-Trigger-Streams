@@ -207,8 +207,8 @@ Notes:
 * When they were transitioning to digital, Yoshinari said Imaishi was better with traditional paper/pencil (00:51:30)
 * Fans are embarrassed where original creators view their fanwork in Japan. (1:00:00)
 * Hiromi likes criticism. He has a strong mind and steel-like fortitude, he doesn't get withered by criticism, so does Koyama. A long time ago they went on 4chan, and they accepted the toxicity as the culture there. There was a comment saying these dudes have balls of steel, and Hiromi likes that comment and thinks he does have balls of steel.
-* 1:27 going to key ankmoator
-* Hiromi Pizza making (1:36:00) stub
+* Going from in-between to key animation is a delicate matter. The conditions for that step up changes frequently. Trigger usually accepts in-betweeners as key animators and train them. (1:27:00)
+* There is going to be a workshop event where they learn how to make a pizza. Hiromi and Koyama are going to participate as well and excited to make them with fans. Hiromi is making a spicy one. (1:36:00)
 * Gunyasa's old teacher/professor is watching the stream too (1:46:00)
 * Gunyasa appreciates Honda who made Eva. 
 * His older sister used to draw. He started drawing when he was young but started taking it seriously in high school, where he was thinking about his future and wanted to work a job he enjoyed. He doesn't think he can draw better than his sister, his sister draws traditional Japanese artwork 
@@ -258,8 +258,13 @@ Notes:
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
 
-### [In betweens Mar 21, 2020](https://www.twitch.tv/videos/576478865)
-Date: Mar 21 2020
+### [New Years/Shikishi](https://www.twitch.tv/videos/532736579?t=0h3m18s)
+Date: Jan 8 2020
+Note:
+* 
+
+### [In betweens Mar 27, 2020](https://www.twitch.tv/videos/576478865)
+Date: Mar 27 2020
 Note:
 * If trigger goes in quarantine and self isolation, BNA will not finish. [Link](https://www.twitch.tv/studio_trigger/clip/ImportantDeterminedMageTinyFace)
 * Tattun hates the concept of time and deadlines.
@@ -285,8 +290,6 @@ Notes:
 * 1st episode took several months to make while last episode was relatively quick (a few weeks) for KILL la KILL. 
 * Mago draws Tattun with large pupils and as a bird.
 * I have never taken drugs in my life. I'm super lightweight.
-
-
 
 ### [Inbetweens April 1, 2020](https://www.twitch.tv/videos/580438363)
 Date: April 1, 2020
@@ -331,15 +334,18 @@ Twitter: @erensbase
 ## TODO: 
 
 In Progress:
-* 8th 50:14
+* Shikishi (1/8/2020)
+
 
 Completed:
+* 3rd
 * 4th mago
 * 5th chiba
 * 6th amemiya
 * 7th koyama
+* 8th 50:14
 * 9th imaishi
 
-* Mar 21 tatt 2:00
+* Mar 21 tatt
 * April 1 Tattun
 * March 31 Tattun
