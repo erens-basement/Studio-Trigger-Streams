@@ -258,8 +258,8 @@ Notes:
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
 
-### [Studio TRIGGER (test stream)](https://www.twitch.tv/videos/470171643?t=0h23m36s)
-Date: Aug 21, 2019
+### [Studio TRIGGER (test stream) Aug 21 2019](https://www.twitch.tv/videos/470171643?t=0h23m36s)
+Date: Aug 21, 2019<br>
 Note: (1 hr)
 * In between frame packs are $30. Tattun tries to make sure there's at least 1 worthy frame in each one, because he hates lootboxes/surprise mechanics.
 * Only Tattun sorts the in betweens, he doesn't know why, because there are more capable people at the studio.
@@ -293,8 +293,9 @@ Note: (1 hr)
 * Hiromi likes playing Gran Blue Fantasy.
 * Nakaniku ATK one of Tattun's favorite illustrators.
 
-### [New Years/Shikishi](https://www.twitch.tv/videos/532736579?t=0h3m18s)
-Date: Jan 8 2020
+
+### [New Years/Shikishi Jan 8, 2020](https://www.twitch.tv/videos/532736579?t=0h3m18s)
+Date: Jan 8 2020<br>
 Note:
 * Eji Tsuchida is the composite/tech guy at Trigger that helps out with the streams.
 * Hiromi is the OG author and created the idea for Panty and Stocking. Also Tattun's boss. Used to be an animator.
@@ -302,8 +303,13 @@ Note:
 * Mami looks like a mugger, rocking a neon beanie, sweatshirt, and mask. (00:48:30)
 * Actual Luluco cut-outs used to film the ending of Space Patrol Luluco. (00:51:00)
 
+### [In betweens Mar 13, 2020](https://www.twitch.tv/videos/566403126?t=0h4m52s)
+Date: Mar 13 2020<br>
+Note:
+* 
+
 ### [In betweens Mar 27, 2020](https://www.twitch.tv/videos/576478865)
-Date: Mar 27 2020
+Date: Mar 27 2020<br>
 Note:
 * If trigger goes in quarantine and self isolation, BNA will not finish. [Link](https://www.twitch.tv/studio_trigger/clip/ImportantDeterminedMageTinyFace)
 * Tattun hates the concept of time and deadlines.
@@ -318,7 +324,7 @@ Note:
 * BNA staff are busy but expect a BNA related Q&A in May.
 
 ### [In betweens March 31, 2020](https://www.twitch.tv/videos/579679446)
-Dates: March 31, 2020
+Dates: March 31, 2020<br>
 Notes: 
 * Q: Do the staff ever ask you to translate for leisure? All the time, for movies they would take him to Star Wars and Solo to as him.
 * He fell asleep for Solo and Black Panther, he had to watch Black Panther 3 times and Solo twice (they were visiting in the states)
@@ -331,7 +337,7 @@ Notes:
 * I have never taken drugs in my life. I'm super lightweight.
 
 ### [Inbetweens April 1, 2020](https://www.twitch.tv/videos/580438363)
-Date: April 1, 2020
+Date: April 1, 2020<br>
 Notes: 
 * Q: Do the staff ever ask you to translate for leisure? All the time, for movies they would take him to Star Wars and Solo to as him.
 * For an internship with Trigger, you need to get a Japanese Visa yourself, be able to speak, write in Japanese, baseline requirements. (01:51:00)
@@ -346,8 +352,8 @@ Notes:
 ## Misc Streams
 
 ### [PROMARE nendroid unboxing](https://www.twitch.tv/videos/558038349?t=0h8m30s)
-Guests: Hiromi, Koyama, Mami
-Description: Building Galo Kamina nendroid,Galo, Lio, and Frag plushies. figure stands, BD jacket  
+Guests: Hiromi, Koyama, Mami<br>
+Description: Building Galo Kamina nendroid,Galo, Lio, and Frag plushies. figure stands, BD jacket<br> 
 Notes:
 * 21:16 Koyama sticks a nendroid stand up nose.
 * 25:50 Koyama reviews banana chips and spills them.
@@ -363,7 +369,14 @@ Notes:
 * 1:32:00 Limited edition BD with interchangeable jacket cover.
 * 1:35:20 Promare character pop quiz (winner gets Koyama icon).
 
-
+### [Hiromi reviews Gridman toy](https://www.twitch.tv/videos/492601746?t=0h6m29s)
+Guests: Hiromi, Koyama (later)<br>
+Description: Builds plastic Gridman toy<br>
+Notes:
+* H: If Tattun is accepting foreign interns, then Trigger is accepting foreign interns.
+* Hiromi recommends going to Japan shibuya for Halloween. You can drink in public unlike in USA. There's actually a DJ police in the streets that hiromi wants to see. (1:03:00)
+* 1:31:40 staff watching behind the camera are revealed.
+* If you tell an interesting story Iiromi and Koyama will give you an icon.
 
 ## Contact Me
 Discord: Erens-Basement#4074<br>
@@ -373,7 +386,7 @@ Twitter: @erensbase
 ## TODO: 
 
 In Progress:
-
+* in between (3/13) 0:20 https://www.twitch.tv/videos/566403126?t=0h20m7s
 
 
 Completed:
