@@ -258,10 +258,34 @@ Notes:
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
 
+### [Studio TRIGGER (test stream)](https://www.twitch.tv/videos/470171643?t=0h23m36s)
+Date: Aug 21, 2019
+Note: (1 hr)
+* In between frame packs are $30. Tattun tries to make sure there's at least 1 worthy frame in each one, because he hates lootboxes/surprise mechanics.
+* Only Tattun sorts the in betweens, he doesn't know why, because there are more capable people at the studio.
+* Can't sell the frames individually. Tattun doesn't know what happens to the unused ones, he puts them in a box and a green elf takes them away.
+* They sell out in 30 minutes, even though they sell them in quantities of 1000 units.
+* Trigger autograph sessions are personalized to deter them from being sold on Ebay. 
+* Used to live in Laguna Beach, CA.
+* There's a total of 4 PR staff.
+* T: I believe Studio Trigger is called Trigger because the directors wanted to call their series/projects films a 'bullet' and the studio will be the trigger that fires the munition out to the viewers. 
+* The way to tell key and in between frames: Lines are more rough on key frames, whereas they're more fine on in-betweens. Fine lines are easier for artists to color digitally and fill in. In betweens have a number on the top right.
+* Italy is the best country he's visited so far.
+* Tattun reads more manga than watch anime. He goes to the bookstore and if it's interesting, he'll get it.
+* Shikishi cost breakdown, sold 30USD/unit (est.): $30-40 altogether for shipping, $10 altogether for wooden sheets (have to get them cut at local hardware store - $2/unit bulk). Usually have $30-40 lying around after that process. Money doesn't go individually to the person who drew, too complicated, but a portion of the Patreon money goes to the people that draw them. >80USD per person. (1:06:00)   
+* Tattun is hoping to share information and breakdown of the donation money, but he's waiting for word from the executives. None of the money is going to the actual studio. (1:07:00)
+
+
+
+
 ### [New Years/Shikishi](https://www.twitch.tv/videos/532736579?t=0h3m18s)
 Date: Jan 8 2020
 Note:
-* 
+* Eji Tsuchida is the composite/tech guy at Trigger that helps out with the streams.
+* Hiromi is the OG author and created the idea for Panty and Stocking. Also Tattun's boss. Used to be an animator.
+* 1st day is shonen and BL. 3rd day of comic market in the summer is the most toxic day. It's the lewd day. The walls are dripping with sweat and you're walking through 70% humidity of dirty man juice. (00:44:30) 
+* Mami looks like a mugger, rocking a neon beanie, sweatshirt, and mask. (00:48:30)
+* Actual Luluco cut-outs used to film the ending of Space Patrol Luluco. (00:51:00)
 
 ### [In betweens Mar 27, 2020](https://www.twitch.tv/videos/576478865)
 Date: Mar 27 2020
@@ -334,7 +358,7 @@ Twitter: @erensbase
 ## TODO: 
 
 In Progress:
-* Shikishi (1/8/2020)
+* first in between one https://www.twitch.tv/videos/470171643?filter=archives&sort=time 8/21/19
 
 
 Completed:
@@ -349,3 +373,7 @@ Completed:
 * Mar 21 tatt
 * April 1 Tattun
 * March 31 Tattun
+
+* Shikishi (1/8/2020)
+
+* Merch unboxing
