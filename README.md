@@ -253,6 +253,52 @@ Notes:
 * Hiromi: Since a movie takes so long to produce, it's unresting you don't know how it will be perceived until it's released. Generally movies are screened for 4 weeks. If it doesn't do well in the first release, it's detrimental. A short TV series will be broadcasted for 3 months so there's good and bad for both projects. Hell is usually around delivery date. For TV series, the hell repeats every episode while a movie is one really rough hell. Pick your poison. (02:41:00)
 * Q: I love Imaishi's design, but he rarely uses his own designs and has character designers. Will he use his own character designs for an anime again? I: My designs are really strong for very manga, comic-like energy for the characters, but for dramatic scenes, they don't translate very well. When my design has to work with an actual script, it doesn't do the script justice. If there's a project where my designs suit the content, atmosphere of the series, he wouldn't mind doing the character designs. (3:53:00)
 
+### Trigger live stream
+
+### [Genice Chan](https://www.twitch.tv/videos/624414654)
+* 
+
+### 10. [Studio TRIGGER -10th live drawing event with Yusuke Yoshigaki from BNA!](https://www.twitch.tv/videos/633229925?t=0h4m53s)
+Date: May 27, 2020<br>
+Artist: Yoshigaki (BNA character designer)<br>
+Description: Shishiki of Michiru, Shishiki of Jackie and Shirou driving<br>
+Guests: Hiromi (producer)<br>
+Tools: Copic markers, pencil, shishiki board, air in soft eraser(?)<br>
+Notes:<br>
+* Yoshigaki is using a lead holder to draw.
+* Q: Did you do any research at a zoo for BNA? Y: No, but Yoshinari provided a heavy photo book of animals to use.
+* (00:26:38) @spoons Does michiru have 4 ears? Tanuki + human ears? A: There are only beast ears when she's in her beast form (He shows the character sheet)
+* (00:28:00) @addmaki10#3907 What pens/pencils does he use for his picture diary? A: Sharpie like pen called maki, he's using a thin version of what Hiromi just shared. He was supposed to sell his picture book at summer Comiket, which got cancelled. Hopefully he can sell it next event.
+* Q: Who is the character you're most comfortable drawing? A: Jackie.
+* Q: Would Yoshigaki sell BNA concept sketches like with LWA? A: Initially BNA was supposed to get out of production before golden week, Yoshigaki was supposed to have time to prepare for his comiket book. But production stretched past and he didn't have time. Next book depends if he can come up with enough illustrations to make a book. Hiromi: it's impressive how he draws new illustrations per book.
+* Hiromi: Yoshigaki draws interestingly. He drafts on a separate paper, then cleans up on a separate medium. Yoshigaki: I'm doing this because shishiki is a delicate surface so he can't erase too much.
+* Q: If you were able to become friends with one of the BNA characters, who would it be? A: I don't know if I could because I'm an old man, but I would be friends with everyone.
+* (00:43:46) @Accipiter PC#8338 Q: if you where a beastman, what animal whould you be and why? A: I would like to be a sloth. They look like they're enjoying life.
+* 1994 Yoshigaki got into industry (25 years so far) same year as Imaishi. Former Gainax animator as well. Pretty common story between colleagues, Yoshinari was always talented, worked on image boards for Uru in Blue. 
+* Q: How does pitching work for movies/shows? Hiromi: The committee/sponsor usually approaches Trigger wanting to make a Trigger show. Usually they have a lot of creative freedom after the initial meeting. Usually they just get an opportunity after an anime. They don't usually have to pitch. There is a time when they come up with a project pitch and throw it at a potential sponsor. Depends on the project.
+* (00:54:15) artmark88 kinda?? Yoshigaki: yeah I like making pixel art. Hiromi: Some of the pixel animation are playable games. The LWA and Luluco one was playable, complete original game with an animator like Sushio will be drawing and Tsutsumi trying to retrieve the deliverables, and as the player you try to intervene. 
+* What kind of eraser does he use? A: I use Air in Soft (small pebble eraser). They're malleable (kneaded) erasers.
+* THey were fortunate to visit Blizzard. Employees get swords, shields, crowns after working 15 years at the company. If they had the money, they would have model gas airguns.
+* (1:04:08) @Krokahn#6244 Q: What sort of direction were you given for designing the characters, and from where did you get inspiration? A: There was a really rough idea provided by the director, then Genice chan explored it further more from that idea and provide a concept design. Then, Mm task was to interpret that design and idea so that animators can easily replicate. That's the entire procedure for my job as character designer.
+* Hiromi: if you're curious about concept art, they post concept art designs on their official twitter before each episode.
+* Tattun: Why is it always baseball in Japanese anime? Hiromi: Baseball is still considered to be one of the mainstream sports in Japan. It's always naturally baseball. Some of our staff are big fans of baseball. Our president is a big fan of it. Gainax had more baseball fanatics. Animators/episode runners tried not to bother an in between supervisor when their favorite team lost. They would get into a really bad mood. They're a pretty big figure in Gainax as all newcomers grew up under them.
+* (1:16:20) @FierceAlchemist#7425 Did Yoshigaki design the human or animal first? A: He worked on finalizing the human versions first. With the exception of Michiru. They had the designs of the beast form first.
+* Y: I would like to visit a haunted location. When he was in high school, he grew up in a local haunted location. He's never experienced anything interesting to this date.
+* Q: What kinda bicycle does Yoshigaki ride? Y: Very common Japan Cycle Asahi(?) popular foldable bicycle. Paratrooper (American) replica bicycle.
+* Yoshinari used to be difficult to manage during the Gainax years. Hiromi: 10 years ago nobody believed Yoshinari would be directing. Yoshinari's changed quite a bit over the years. Y: Since he's faster and better than most people, Yoshinari can do everything himself. They couldn't see why he would be interested in directing.
+* Q: Are there different teams in Trigger? H: We share the same production team, but we have separate creative leading team. Same body, different head/minds.
+* H: Is Chip & Dale considered furry? Ninja Turtles? X-men?
+* For 5 years, Hiromi has been saying he wants to do sometihing like Space Jam where they fuse animation and live action. 
+* When Akame takes off her tights, Amemiya (director) bought actual tights and took them off in video to use as reference for animators. (02:03:30)
+* Yoshigaki designs a lot of the transformations for Trigger characters, like Luluco's judgment gun morphing. Yoshigaki used a punisher(?) toy as a reference. 
+* Q: What anime do you like watching/currently watching? Y: [Oshiri Tantei (Butt Detective)](https://www.youtube.com/watch?v=LHLtYv1DCa8). Similar to Dora the Explorer. He likes it because it's very interactive.
+* (02:25:59) @VideoClubFanatic#8545 Q: We had red team from LWA in beast man form, how would you think green or blue team look in BNA? Y: I was not aware LWA made a cameo in BNA. I guess we have no comments.
+* Q: Are you ever going to make an all age appropriate kids show? A: We thought LWA was one. T: I thought Luluco was all ages. H: Luluco was for teenagers and a coming of age story.
+* Yoshigaki didn't work on the key animation for BNA. For key animation, he only helped out on a gorilla arm and Michiru bird scene. 
+* H: Sex & Speed is my take on a detective story. SPL is my take on shoujo, love story. 
+* Yoshigaki did the character for the short of Gridman for Animator Expo.
+* H: We are a sister studio to Khara because we both branched from Gainax.
+* Koyama and Hiromi's current addiction is Fortnite.
 
 
 ## Tattun Streams
