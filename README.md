@@ -214,7 +214,7 @@ Notes:
 * His older sister used to draw. He started drawing when he was young but started taking it seriously in high school, where he was thinking about his future and wanted to work a job he enjoyed. He doesn't think he can draw better than his sister, his sister draws traditional Japanese artwork 
 * Who has the most toys Undisputed Amemiya has the most, his is the most messy. Sakamoto has the next most. Sushio and Imaishi have a lot but no where near those two. (2:25:00)
 * Trigger is open to fan letters. Send to the Trigger president (2:27:30) 
-* How does Gunyasa apply shadows? Gunyasa uses a tool called Multiply to apply them. 
+* How does Gunyasa apply shadows? Gunyasa uses a blend mode called "Multiply blend mode" to apply them. 
 * Promare had a gyoza collaboration. (2:49:50) 
 * Hiromi would do a collaboration with Coca-cola, McDonald's, Apple, Windows, Nike, Netflix. (2:51:00)
 * Q: What is your favorite food to put in oden? Gunyasa likes dikon radish, Hiromi likes kombucha, Tattun likes eggs. 
