@@ -190,9 +190,9 @@ Notes:
 * Inferno Cop is Koyama's favorite character.
 
 
-### 8. [Live Drawing 8 - Shunpei Gunyasu drawing Lio from PROMARE, Halloween-themed](https://www.twitch.tv/videos/499247339?t=0h2m18s) 
+### 8. [Live Drawing 8 - Shunpei Gunyasa drawing Lio from PROMARE, Halloween-themed](https://www.twitch.tv/videos/499247339?t=0h2m18s) 
 Date: Oct 25, 2019<br>
-Artist: Shunpei Gunyasu (key animator)<br>
+Artist: Shunpei Gunyasa (key animator)<br>
 Description: Lio from PROMARE, Halloween-themed<br>
 Guests: Hiromi (producer), Mami (1:31:37), Koyama/co-workers in chat<br>
 Tools: iPad Pro 3rd Gen. and Apple Pencil Gen 2/Procreate<br>
@@ -220,7 +220,7 @@ Notes:
 * Q: What is your favorite food to put in oden? Gunyasa likes dikon radish, Hiromi likes kombucha, Tattun likes eggs. 
 * H: In regards to collaborating with restaurants etc, We don't really think with benefits us or not too much. Usually they care if it's entertaining or not. Though they are more concerned about the quality aspect. 
 * How do you like your eggs? H: He likes scrambled eggs, kind of raw. Gunyasa likes boiled eggs. Tattun likes eggs in general, and can drink them raw.
-* Gunyasu is a fan of the MCU, but doesn't read the comics.
+* Gunyasa is a fan of the MCU, but doesn't read the comics.
 
 ### 9. [Christmas Live Drawing Special - Imaishi animating a sequence with PROMARE characters](https://www.twitch.tv/videos/526051066?t=0h6m57s)
 Date: December 25, 2019<br>
@@ -260,7 +260,7 @@ Notes:
 
 ### 10. [Studio TRIGGER -10th live drawing event with Yusuke Yoshigaki from BNA!](https://www.twitch.tv/videos/633229925?t=0h4m53s)
 Date: May 27, 2020<br>
-Artist: Yoshigaki (BNA character designer)<br>
+Artist: Yusuke Yoshigaki (BNA character designer)<br>
 Description: Shishiki of Michiru, Shishiki of Jackie and Shirou driving<br>
 Guests: Hiromi (producer)<br>
 Tools: Copic markers, pencil, shishiki board, air in soft eraser(?)<br>
@@ -300,6 +300,75 @@ Notes:<br>
 * H: We are a sister studio to Khara because we both branched from Gainax.
 * Koyama and Hiromi's current addiction is Fortnite.
 
+## GEEKBOAT Streams
+Hiromi + Koyama + Imaishi
+### Promare Stream (written by ikeagirl)
+Part 1: <br>
+* It took at least 2 years to decide the style of the flames. 
+* Koyama hadn't watched the movie since he worked on the BD revisions.
+* Part A > Always Imaishi, always an action scene.
+* Waka finds cool the moment Galo freezes Gueira’s flames, and they call the following cuts (Gueira and Meis put in blocks of ice) the « stupid moments ».
+* Also cool: the sound of Galo’s foot that concludes the capture of Gueira & Meis, Waka finds it satisfying.
+* Talking about 3D and the freedom it gives to have fun with camera movements.
+* The storyboard pages uploaded on Twitter in real time were either from Imaishi or from Yoshinari.
+* Apparently the colours are particularly pretty on a Mac screen (Waka).
+* They find the thing that catches Lio very cute and would like to see merch done out of it. And also, it looks like a bottle of whisky.
+* Sushio is always involved in the A parts of Imaishi’s works.
+* Talking about the fact that there's no Vulcan figure yet (and laugh about it).
+* Prison scene : storyboard by Yoshinari / serious way of drawing / he put a realistic touch on the storyboards compared to the B part (done by Michel Sugimoto and Mayumi Nakamura) who have a more kawaii way of doing things.
+* NB: for the full names, I looked into the Special book of the BD limited edition, but they just said Michel and Nakamura in the stream. Also, in my 1st post I said something like the fact Lio was pretty was done on purpose in that scene, I totally mixed up what I heard and reported, I fully acknowledge it (Lio on the screen + the word kawaii on the stream, my brain made a wild translation on its own)
+* Pizza > Yoshigaki’s sequence.
+* *They made heavy corrections on the pizzeria scene with Vulcan and the pizza chef (the first on they did correction on?) > gradients, colours of the ice, colours of the shades. They are happy they could reproduce the visual ambiance of the interior of a restaurant like the ones you can have in NY. 
+* Prison break > Waka said something like « when there’s a chase scene, there’s Imaishi somewhere for sure » (but is it because he likes them or because he’s always the one to make them, I couldn’t understand)
+* Lake scene : That’s the « world of Shigeto Koyama », visually speaking. They talk about Aina’s white breath puffs, and say that because Galo is a guy, it’s not needed for him. Actually it was a question asked by fans (why does Aina’s breath is white and not Galo’s?), and they made up a reason. And apologized for it ^^ 
+* The visual upgrades on that scene were interesting to do, technically speaking
+* Storyboard book > there will be the storyboard of the deleted scene between the moment Galo leaves on his bike to pursue the falling burnish light and the moment he arrives at the cave.
+* In the book interview, Imaishi is talking about how he chose what scene to keep and what scene to delete (then something about CG / easier to delete because it’s quicker to only do a preview / or something > not sure about this bit) 
+* The interview for the book lasted 5 hours.
+* Waka loves Thyma’s character design / if it was a TV series, she would have been made a main character.
+Part 2: (starts after Galo gives the medal back)<br>
+* Imaishi tries to make the « reveal » / « explanation » scenes interesting by making stuff happening on screen, it makes things easier to understand
+* Waka points that they managed to cram two of this kind of scenes into a 2h movie
+* Praising Tomotaka Kubo’s super cool backgrounds
+- Heris appearing > Koyama: talks about how difficult it was to balance the green color in the lab scene with Heris, because either it would look dirty onscreen or it was clashing too much with the other colours. Maybe it was the most difficult sequence for him to work on in terms of colours. He used gradients as a trick on some places.
+- some things differ from the storyboard around here
+- They like the way how the moment Kray punches Galo is animated, with a one-motion hit
+- They talk about the fact that from the moment he has been hit, Galo stops calling Kray Danna/Gov’, and that aaaw, Galo does what it told to, he's a good boy (translator’s note: that sounds like something out a fic from AO3…)
+Part 3 (burnish camp / arrival of the Freeze force)<br> 
+- Waka likes the change of colours, from green in the previous sequence to something more earthy
+- Kai Ikarashi’s second part (tn: ?) / Gueira and Meis looks huge... especially Gueira
+- Overall, most things that have been actually drawn in the storyboard have been used, the rest has been left to the state of sketches
+- During the BR scene where everybody is wondering where Galo is, Waka wants to talk about Newtype (the magazine) but says New York instead, the others laugh at him, he answers that it’s because NY was too good.
+
+
+## Other Trigger Streams
+
+### [PROMARE nendroid unboxing](https://www.twitch.tv/videos/558038349?t=0h8m30s)
+Guests: Hiromi, Koyama, Mami<br>
+Description: Building Galo Kamina nendroid,Galo, Lio, and Frag plushies. figure stands, BD jacket<br> 
+Notes:
+* 21:16 Koyama sticks a nendroid stand up nose.
+* 25:50 Koyama reviews banana chips and spills them.
+* 33:50 Koyama penguin doodle (icon). In any Geekboat stream, if anything entertains them or helps them out, they gift you with an icon (penguin).
+* 38:20 Hiromi: real fans will sense when a stream is coming, you don't need announcements. 
+* 1:00:00 Galo with Kamina's cape.
+* 1:04:00 Plushies: Plushies: Frag (grenade) from the mascot (designed by Koyama), Galo, Lio. 
+* 1:05:53 GALO INTENSIFIES, Koyama playing with Galo plushie.
+* The reason why Nendroid for Promare came out so quick is because Koyama is part of the review process for Good Smile Company. He reviewed for SAO and FSN figures in the past. He reviews 100 figures in a year, 40 titles. He was also heavily involved in the figure making process for Promare. (There's an article somewhere with Koyama and nendroid making).
+* Koyama used to work as a radio station script writer a long time ago.
+* 1:27:33 Koyama and Hiromi playing and making the plushies move.
+* 1:30:30 Lio and Galo's plushie ears are nice to touch.
+* 1:32:00 Limited edition BD with interchangeable jacket cover.
+* 1:35:20 Promare character pop quiz (winner gets Koyama icon).
+
+### [Hiromi reviews Gridman toy](https://www.twitch.tv/videos/492601746?t=0h6m29s)
+Guests: Hiromi, Koyama (later)<br>
+Description: Builds plastic Gridman toy<br>
+Notes:
+* H: If Tattun is accepting foreign interns, then Trigger is accepting foreign interns.
+* Hiromi recommends going to Japan shibuya for Halloween. You can drink in public unlike in USA. There's actually a DJ police in the streets that hiromi wants to see. (1:03:00)
+* 1:31:40 staff watching behind the camera are revealed.
+* If you tell an interesting story Iiromi and Koyama will give you an icon.
 
 ## Tattun Streams
 Streams where he's flipping through in-betweens and answering questions
@@ -393,36 +462,6 @@ Notes:
 * T: Most I've gotten in trouble for was disclosing the cost for an anime episode in the past. The exec folks were super mad. (02:38:34)
 * T: I'm the studio's PR. They call me Tatsun, I don't know why they call me that. My real name is Tatsuru. It started when a certain celebrity said Tattun's name was boring and she would call him Tatsun from that point. Then it stuck. (02:48:00)
 * T: I am treated as the clown and joke of the studio. Oh that dude's doing some random crap that isn't gonna go well, wasting everyone's time. (02:52:00)
-
-
-## Misc Streams
-
-### [PROMARE nendroid unboxing](https://www.twitch.tv/videos/558038349?t=0h8m30s)
-Guests: Hiromi, Koyama, Mami<br>
-Description: Building Galo Kamina nendroid,Galo, Lio, and Frag plushies. figure stands, BD jacket<br> 
-Notes:
-* 21:16 Koyama sticks a nendroid stand up nose.
-* 25:50 Koyama reviews banana chips and spills them.
-* 33:50 Koyama penguin doodle (icon). In any Geekboat stream, if anything entertains them or helps them out, they gift you with an icon (penguin).
-* 38:20 Hiromi: real fans will sense when a stream is coming, you don't need announcements. 
-* 1:00:00 Galo with Kamina's cape.
-* 1:04:00 Plushies: Plushies: Frag (grenade) from the mascot (designed by Koyama), Galo, Lio. 
-* 1:05:53 GALO INTENSIFIES, Koyama playing with Galo plushie.
-* The reason why Nendroid for Promare came out so quick is because Koyama is part of the review process for Good Smile Company. He reviewed for SAO and FSN figures in the past. He reviews 100 figures in a year, 40 titles. He was also heavily involved in the figure making process for Promare. (There's an article somewhere with Koyama and nendroid making).
-* Koyama used to work as a radio station script writer a long time ago.
-* 1:27:33 Koyama and Hiromi playing and making the plushies move.
-* 1:30:30 Lio and Galo's plushie ears are nice to touch.
-* 1:32:00 Limited edition BD with interchangeable jacket cover.
-* 1:35:20 Promare character pop quiz (winner gets Koyama icon).
-
-### [Hiromi reviews Gridman toy](https://www.twitch.tv/videos/492601746?t=0h6m29s)
-Guests: Hiromi, Koyama (later)<br>
-Description: Builds plastic Gridman toy<br>
-Notes:
-* H: If Tattun is accepting foreign interns, then Trigger is accepting foreign interns.
-* Hiromi recommends going to Japan shibuya for Halloween. You can drink in public unlike in USA. There's actually a DJ police in the streets that hiromi wants to see. (1:03:00)
-* 1:31:40 staff watching behind the camera are revealed.
-* If you tell an interesting story Iiromi and Koyama will give you an icon.
 
 ## Contact Me
 Discord: Erens-Basement#4074<br>
