@@ -463,7 +463,7 @@ Notes:
 * T: I'm the studio's PR. They call me Tatsun, I don't know why they call me that. My real name is Tatsuru. It started when a certain celebrity said Tattun's name was boring and she would call him Tatsun from that point. Then it stuck. (02:48:00)
 * T: I am treated as the clown and joke of the studio. Oh that dude's doing some random crap that isn't gonna go well, wasting everyone's time. (02:52:00)
 
-### [Inbetweens June 4, 2020]
+### [Inbetweens June 4, 2020](https://www.twitch.tv/videos/640769831)
 Date: June 4, 2020<br>
 Notes:
 * Tattun doesn't care if we talk about proxy services.
@@ -474,7 +474,7 @@ Notes:
 * They had a game console in the old office, not sure where it went in the new office.
 * Tattun really loves Fentiman's Curiosity Cola (British coke), and brought some to work to share with a co-worker, who ended up disliking it. Now he's wary with sharing food he likes.
 
-### [In betweens June 11, 2020]
+### [In betweens June 11, 2020](https://www.twitch.tv/videos/647511586)
 Date: June 11, 2020<br>
 Notes:
 * I used to visit Hawaii every summer. I've been kicked out a beach for digging a hole, digging for a week, depth twice his height, covered it with beach towels and security guards counted it as a booby trap. He also used to catch wild chickens at a parking lot.
