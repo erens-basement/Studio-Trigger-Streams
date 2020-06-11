@@ -463,6 +463,29 @@ Notes:
 * T: I'm the studio's PR. They call me Tatsun, I don't know why they call me that. My real name is Tatsuru. It started when a certain celebrity said Tattun's name was boring and she would call him Tatsun from that point. Then it stuck. (02:48:00)
 * T: I am treated as the clown and joke of the studio. Oh that dude's doing some random crap that isn't gonna go well, wasting everyone's time. (02:52:00)
 
+### [Inbetweens June 4, 2020]
+Date: June 4, 2020<br>
+Notes:
+* Tattun doesn't care if we talk about proxy services.
+* Sushio's been pulled like 7 times for the live drawing raffle but Sushio's too busy and can't do them. Producers would get angry using Sushio's free time for the live drawing. He's one of the most valuable assets to the studio. 
+* Who's my favorite hentai artist, mister inoway(?) Trigger girls are commissioned by outside artists, look for the artists if you want to know Tattun's favorites.
+* What's the weirdest food you've seen sold at a japanese vending machine? red bean paste.
+* For PR, Hiromi goes out and finds people. He found Tattun, Mami. They haven't hired a PR person based on an application.
+* They had a game console in the old office, not sure where it went in the new office.
+* Tattun really loves Fentiman's Curiosity Cola (British coke), and brought some to work to share with a co-worker, who ended up disliking it. Now he's wary with sharing food he likes.
+
+### [In betweens June 11, 2020]
+Date: June 11, 2020<br>
+Notes:
+* I used to visit Hawaii every summer. I've been kicked out a beach for digging a hole, digging for a week, depth twice his height, covered it with beach towels and security guards counted it as a booby trap. He also used to catch wild chickens at a parking lot.
+* He really likes wandering around, getting lost, and eating. When he went to Italy, he didn't go to any tourism places.
+* Hiromi low key wants to start a Trigger economy based on Trigger dollars.
+* Trigger dollars is what Tattun initially proposed, but the idea changed from the initial. Hiromi and Koyama really like Supreme and bought a money gun and wanted to shoot money at conventions. They do Q&A and they should hire a stripper to move the mics, and they use the dollars for the fans to give it to the stripper and exchange for the mic. Tattun wanted the explosive presentation compared to other companies. 
+* Enjoys Japan weather more. California has 1 season through the year, Japan has 4 seasons. If I could cut out summer, I hate hot places. Snow's interesting, Fall and Spring were interesting as well. 
+* Mexican coke is like the super saiyan of cokes. Usually if there's mexican coke available, there would be horchata which I love as well
+* They did a trigger expo 6-7 years ago and had a t-shirt sale and only one chubby character remained. 
+
+
 ## Contact Me
 Discord: Erens-Basement#4074<br>
 Reddit: Erens-Basement<br>
@@ -482,12 +505,9 @@ Completed:
 * 7th koyama
 * 8th 50:14
 * 9th imaishi
-
 * Mar 21 tatt
 * April 1 Tattun
 * March 31 Tattun
-
 * Shikishi (1/8/2020)
-
 * first in between one 8/21/19
 * Merch unboxing
