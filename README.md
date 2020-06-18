@@ -17,7 +17,18 @@ Tools: Wacom Cintiq 14(?)/Photoshop CC<br>
 Finished artwork: [.JPG Link](https://www.patreon.com/posts/reward-hi-res-of-21792554) | [.PSD Link](https://www.patreon.com/join/TRIGGER/reward-psd-file-21817844) (patron access)<br>
 Timelapse videos: [Hand cam/10 min vers](https://www.youtube.com/watch?v=JbHqadf6GpA) | [No cam/10 min vers](https://www.youtube.com/watch?v=HBRuS3LvXmc) | [No cam/full vers](https://www.youtube.com/watch?v=0Gbb6gRnayQ)<br>
 Notes:
-
+* Q: What's an easy way to get better at drawing? Yoshinari: If there's an easy way to get better at drawing, I'd like to know this too.
+* Q: Who do you look up to? Y: I have too many people I look up to. If I were to say one, it'd be those youngsters that stream these drawing events. (00:07:50)
+* Hiromi + Yoshinari: Little Witch Academia doesn't technically go to space. (00:10:11)
+* Q: How can I support animators directly? Yoshinari: The only way to directly support animators is directly buying their doujinshi/artbook. Hiromi: The only way is if animators themselves open ways for fans to support them through outlets like streams. Other than that, the studio can only give them more work.
+* Q: How much do you outsource? H: For Kill la Kill, more than half was probably outsourced because we don't have the staff. (00:29:00)
+* Hiromi: I would like to animate Fast and Furious.
+* Q: Favorite pizza toppings?? Yoshinari: tomatoes Hiromi: mozzarella Tattun: sausage
+* Yoshinari said he will direct the second season of Inferno Cop.
+* Yoshinari's favorite thing to draw are effects like explosions.
+* Q: Is there anything you think of before you make characters? Y: I usually don't think of anything when I'm drawing characters. I draw then, then think afterwards. I draw whatever comes to my mind. If you think you can get better by looking at a reference, you're wrong. Don't rely on items or equipment.
+* Yoshinari said right now he's in the mood to draw Jasminka but he's forced to draw Akko.
+* 59:18
 
 ### 2. [Live Drawing 2 - Akihiro Sato drawing Ryuuko from KILL la KILL](https://www.youtube.com/watch?v=PrQuxS_w2vE)
 Date: Dec 1, 2018<br>
@@ -253,11 +264,6 @@ Notes:
 * Hiromi: Since a movie takes so long to produce, it's unresting you don't know how it will be perceived until it's released. Generally movies are screened for 4 weeks. If it doesn't do well in the first release, it's detrimental. A short TV series will be broadcasted for 3 months so there's good and bad for both projects. Hell is usually around delivery date. For TV series, the hell repeats every episode while a movie is one really rough hell. Pick your poison. (02:41:00)
 * Q: I love Imaishi's design, but he rarely uses his own designs and has character designers. Will he use his own character designs for an anime again? I: My designs are really strong for very manga, comic-like energy for the characters, but for dramatic scenes, they don't translate very well. When my design has to work with an actual script, it doesn't do the script justice. If there's a project where my designs suit the content, atmosphere of the series, he wouldn't mind doing the character designs. (3:53:00)
 
-### Trigger live stream
-
-### [Genice Chan](https://www.twitch.tv/videos/624414654)
-* 
-
 ### 10. [Studio TRIGGER -10th live drawing event with Yusuke Yoshigaki from BNA!](https://www.twitch.tv/videos/633229925?t=0h4m53s)
 Date: May 27, 2020<br>
 Artist: Yusuke Yoshigaki (BNA character designer)<br>
@@ -361,6 +367,12 @@ Notes:
 * 1:32:00 Limited edition BD with interchangeable jacket cover.
 * 1:35:20 Promare character pop quiz (winner gets Koyama icon).
 
+### Trigger BNA Stream
+* TBA
+
+### [Genice Chan](https://www.twitch.tv/videos/624414654)
+* TBA
+
 ### [Hiromi reviews Gridman toy](https://www.twitch.tv/videos/492601746?t=0h6m29s)
 Guests: Hiromi, Koyama (later)<br>
 Description: Builds plastic Gridman toy<br>
@@ -421,7 +433,7 @@ Note:
 ### [In betweens Mar 13, 2020](https://www.twitch.tv/videos/566403126?t=0h4m52s)
 Date: Mar 13 2020<br>
 Note:
-* 
+* TBA
 
 ### [In betweens Mar 27, 2020](https://www.twitch.tv/videos/576478865)
 Date: Mar 27 2020<br>
@@ -484,6 +496,31 @@ Notes:
 * Enjoys Japan weather more. California has 1 season through the year, Japan has 4 seasons. If I could cut out summer, I hate hot places. Snow's interesting, Fall and Spring were interesting as well. 
 * Mexican coke is like the super saiyan of cokes. Usually if there's mexican coke available, there would be horchata which I love as well
 * They did a trigger expo 6-7 years ago and had a t-shirt sale and only one chubby character remained. 
+
+### [In between June 12, 2020](https://www.twitch.tv/videos/648522513)
+Date: June 12, 2020<br>
+Notes:
+* Initial idea for muzzle is that she can't speak. She can only speak gibberish, never takes off her mask, only uses blunt knive
+* Muzzle was general onee-san vibes, big chesticles, thick thighs, thick waifu
+* Emote plans are squared away, get the donation goal. Yoshigaki (BNA chara de) is planned as the first guy to commission the emotes
+* Good Smile Company is our big daddy. We don't have the manpower, logistics to sell our stuff so that's what the parent company does.
+* Favorite kind of sushi? If the sushi chef is great, then nigiri. 
+* Good Smile has always been the big grand daddy. If I do, it's usually me getting scolded. Company is getting more pseudo-business professional, moreso than 5-6 years ago. But it's still lax.
+* In Europe, he was taking a bus and thought it was back to the hotel but it went to a totally random place. It was quite the adventure
+* It was Tattun's idea to have the detachable glasses the Lotte nendo has. 
+* Pocari sweat tastes like sweet salt water.
+* We know a few people at Pixar. Worked on a show called Battle Saurs, a toy story short for a christmas episode. this particular personfrom pixar was open to working on promare. he did a few image board on the volcano.
+* Last year, 1 week away at AX, cat wouldn't leave him alone after 3 weeks.
+* Two most freq dreams, forgetting something for class or falling off an escalator.
+* My cat gets treats if she poops right, that's the extent of her responsibilities. 
+* My phone is full of videos of my cat pooping
+* Tried getting her a custom harness to take her on a walk
+* Said this on 4chan, but I always wanted this episode of Hannah and Barbara pulling a coup on Diana. Diana isn't popular anymore because of the two. But Hanna and Barbara screw up and she's back to queen bee. 
+
+Date: June 18, 2020<br>
+Notes:
+* Sushio like using the yellow correction paper. Usually colors are designated to different people, like green for director, pink for supervisor, etc.
+
 
 
 ## Contact Me
